@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Desk"
+  short_description: "Research grounded help for websites and business"
+  default_prompt: "Use $business-desk to choose the right research references and help with this business task."
