@@ -121,6 +121,14 @@ def validate(root=ROOT, check_manifest=True):
         url = urlsplit(source['url'])
         if source['expert'] not in known or url.scheme not in {'http','https'} or not url.netloc or url.username or url.password:
             errors.append('Invalid source metadata')
+    # Older public snapshots predate the expanded catalog. Keep history checks compatible.
+    version = tuple(int(n) for n in (root/'VERSION').read_text().strip().split('.'))
+    if version >= (1,1,0):
+        from catalog import validate_catalog
+        try:
+            validate_catalog(root)
+        except (ValueError,OSError,KeyError) as exc:
+            errors.append('Research catalog: '+str(exc))
     if check_manifest:
         try:
             manifest = install.verify(skill)

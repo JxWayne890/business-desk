@@ -20,6 +20,7 @@ The push hook inspects every reachable commit proposed for publication, includin
 
 ```sh
 python3 tools/build_release.py --manifest-only
+python3 tools/catalog.py --write
 python3 tools/validate.py
 python3 -m unittest discover -s tests -v
 python3 -m unittest discover -s skills/business-desk/scripts -v
@@ -44,3 +45,9 @@ These checks do not prove the quality of every AI response, verify all external 
 Public briefs contain original summaries, not full evidence snapshots. Add or revise a summary only after reading the relevant original public work. Keep methods with one source labeled as candidates. Preserve joint and company authorship. Record a source link and locator, and describe anything not reviewed.
 
 Do not replace the user's personal library during an install or update. Avoid background update jobs or paid source collection unless the user separately requests them.
+
+## Research counts
+
+The expert index stores the dated archived post counts. Verify these counts against the collection records whenever publishing a research update. The public package contains count metadata and source links, not the underlying archives. Cited X counts are derived from distinct post IDs in the public source directory. Other source entries are counted separately, and multiple entries can refer to one underlying work.
+
+Maintain each professional in exactly one primary category. Regenerate the README and research document with `python3 tools/catalog.py --write`. The validator checks those tables against the metadata, checks cited counts against source URLs, and checks all 24 website areas against the source directory. It cannot independently establish an archive count without the original collection records.

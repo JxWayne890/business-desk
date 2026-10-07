@@ -1,5 +1,13 @@
 # Changes
 
+## 1.1.0
+
+* Expands the agency edition to 46 active roles and two supplemental imagery references across nine categories.
+* Adds the latest source briefs and a documented cold outreach workflow.
+* Adds the complete 24 area website workflow, source register, and implementation reference guide.
+* Lists every professional and dated research counts in the README and research table, separating collected X posts from cited posts and other source entries.
+* Validates category membership, source counts, website evidence links, and generated documentation alongside the existing privacy and installation checks.
+
 ## 1.0.1
 
 Portable Business Desk for agencies and client work.

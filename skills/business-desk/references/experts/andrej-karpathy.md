@@ -2,13 +2,13 @@
 
 AI learning and careful implementation
 
-This reference contains original research summaries and links to public work. It does not represent the person or their endorsement.
+This reference contains original research summaries and links to public work. It does not represent the person or imply endorsement.
 
 ## Coverage
 
-Research compiled October 2026. Source status: ready with gaps. Original text snapshots and bulk social archives are not distributed. Method labels below describe the original research, not a fresh audit of the public sources. Open the cited source before making a precise attribution or extending a method beyond this summary.
+Research snapshot: October 6, 2026. Archived X posts: 2,728. Distinct X posts cited below: 4. Other source entries: 8. Total source entries: 12.
 
-Sources summarized: 12. Repeated methods: 5. Candidates: 3.
+Archived posts are research inputs, not a fully reviewed curriculum, and are not included in this package. Cited entries may cover written excerpts, identity context, or limited visual observations. The source directory identifies the capture type. Method labels describe the original research; they are not a fresh audit or a guarantee of business results.
 
 * This is a starter library from selected material, not exhaustive research.
 * No Karpathy lecture videos or interview timelines have been fully reviewed for this library.
@@ -89,110 +89,19 @@ Karpathy emphasizes the repeatable process around data rather than possession of
 
 * [Build an iterative data and evaluation process](https://x.com/karpathy/status/1599852921541128194). Author: Andrej Karpathy. Locator: X post 1599852921541128194, authored post text, published 2022-12-05. Karpathy emphasizes the repeatable process around data rather than possession of a dataset alone. For an AI feature, connect new examples, evaluation, deployment, and observed results in a documented improvement process.
 
-## Source summaries
+## Source directory
 
-### micrograd documentation
+Open the original source before precise attribution or extending a method. Multiple entries may refer to the same underlying work. Company and joint authorship remain attributed to the source authors.
 
-[Andrej Karpathy and repository contributors](https://github.com/karpathy/micrograd/blob/master/README.md)
-
-The project exposes automatic differentiation through scalar operations, includes an example with expected values, and describes reference checks against PyTorch.
-
-Original capture: full_text. Underlying work: `karpathy:micrograd`.
-
-### micrograd reference tests
-
-[Andrej Karpathy and repository contributors](https://github.com/karpathy/micrograd/blob/master/test/test_engine.py)
-
-Tests compare forward values and gradients with PyTorch, using exact comparisons or an explicit tolerance. This is evidence of checking a small implementation against a reference.
-
-Original capture: full_text. Underlying work: `karpathy:micrograd`.
-
-### minbpe documentation
-
-[Andrej Karpathy and repository contributors](https://github.com/karpathy/minbpe/blob/master/README.md)
-
-The project separates basic byte pair encoding, regex preprocessing, and compatibility behavior. Its quick start gives a small input and expected tokens, while another example compares results with tiktoken.
-
-Original capture: full_text. Underlying work: `karpathy:minbpe`.
-
-### minbpe tokenizer tests
-
-[Andrej Karpathy and repository contributors](https://github.com/karpathy/minbpe/blob/master/tests/test_tokenizer.py)
-
-Tests cover encode and decode identity, Unicode and empty strings, reference token equality, special tokens, and persistence. Passing these tests was not claimed or measured in this research task.
-
-Original capture: full_text. Underlying work: `karpathy:minbpe`.
-
-### A Recipe for Training Neural Networks
-
-[Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
-
-The article recommends inspecting examples before modeling and increasing complexity in stages. Treat these as neural network development guidance, with broader applications labeled as synthesis.
-
-Original capture: excerpt. Underlying work: `karpathy:recipe-2019`.
-
-### Neural Networks: Zero to Hero course introduction
-
-[Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
-
-The course teaches neural networks through implementation. Its introduction and syllabus establish educational scope; they do not substitute for review of the actual lectures.
-
-Original capture: excerpt. Underlying work: `karpathy:zero-to-hero`.
-
-### Official profile and source directory
-
-[Andrej Karpathy](https://karpathy.ai/)
-
-The public site identifies Andrej Karpathy as an AI researcher and educator and links his writing, teaching, and code. Only professional source discovery is retained here.
-
-Original capture: research_notes. Underlying work: `karpathy:official-profile`.
-
-### X identity and attribution check
-
-[Andrej Karpathy](https://karpathy.ai/)
-
-The official website links karpathy. The API profile matches Andrej Karpathy.
-
-Locator: Official public link and API profile matched on October 5, 2026
-
-Original capture: research_notes. Underlying work: `andrej-karpathy:x-identity-2026-10-05`.
-
-### Inspect the batch entering the model
-
-[Andrej Karpathy](https://x.com/karpathy/status/1328547710966743040)
-
-Inspect actual transformed inputs and labels immediately before model execution. This can expose preprocessing and sampling errors.
-
-Locator: X post 1328547710966743040, authored post text, published 2020-11-17
-
-Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-1328547710966743040`.
-
-### Learn through concrete projects
-
-[Andrej Karpathy](https://x.com/karpathy/status/1325154823856033793)
-
-Use a concrete project to drive learning, then explain the result in your own words.
-
-Locator: X post 1325154823856033793, authored post text, published 2020-11-07
-
-Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-1325154823856033793`.
-
-### Choose an output format that helps understanding
-
-[Andrej Karpathy](https://x.com/karpathy/status/2105819303471976479)
-
-Consider a diagram or interactive explanation when prose alone makes a concept hard to understand.
-
-Locator: X post 2105819303471976479, authored post text, published 2026-10-02
-
-Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-2105819303471976479`.
-
-### Build an iterative data and evaluation process
-
-[Andrej Karpathy](https://x.com/karpathy/status/1599852921541128194)
-
-Karpathy emphasizes the repeatable process around data rather than possession of a dataset alone. For an AI feature, connect new examples, evaluation, deployment, and observed results in a documented improvement process.
-
-Locator: X post 1599852921541128194, authored post text, published 2022-12-05
-
-Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-1599852921541128194`.
+* [micrograd documentation](https://github.com/karpathy/micrograd/blob/master/README.md). Author: Andrej Karpathy and repository contributors. Published: unknown. Original capture: full_text. Underlying work: `karpathy:micrograd`.
+* [micrograd reference tests](https://github.com/karpathy/micrograd/blob/master/test/test_engine.py). Author: Andrej Karpathy and repository contributors. Published: unknown. Original capture: full_text. Underlying work: `karpathy:micrograd`.
+* [minbpe documentation](https://github.com/karpathy/minbpe/blob/master/README.md). Author: Andrej Karpathy and repository contributors. Published: unknown. Original capture: full_text. Underlying work: `karpathy:minbpe`.
+* [minbpe tokenizer tests](https://github.com/karpathy/minbpe/blob/master/tests/test_tokenizer.py). Author: Andrej Karpathy and repository contributors. Published: unknown. Original capture: full_text. Underlying work: `karpathy:minbpe`.
+* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/). Author: Andrej Karpathy. Published: 2019-04-25. Original capture: excerpt. Underlying work: `karpathy:recipe-2019`.
+* [Neural Networks: Zero to Hero course introduction](https://karpathy.ai/zero-to-hero.html). Author: Andrej Karpathy. Published: unknown. Original capture: excerpt. Underlying work: `karpathy:zero-to-hero`.
+* [Official profile and source directory](https://karpathy.ai/). Author: Andrej Karpathy. Published: unknown. Original capture: research_notes. Underlying work: `karpathy:official-profile`.
+* [X identity and attribution check](https://karpathy.ai/). Author: Andrej Karpathy. Published: unknown. Original capture: research_notes. Underlying work: `andrej-karpathy:x-identity-2026-10-05`.
+* [Inspect the batch entering the model](https://x.com/karpathy/status/1328547710966743040). Author: Andrej Karpathy. Published: 2020-11-17. Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-1328547710966743040`.
+* [Learn through concrete projects](https://x.com/karpathy/status/1325154823856033793). Author: Andrej Karpathy. Published: 2020-11-07. Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-1325154823856033793`.
+* [Choose an output format that helps understanding](https://x.com/karpathy/status/2105819303471976479). Author: Andrej Karpathy. Published: 2026-10-02. Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-2105819303471976479`.
+* [Build an iterative data and evaluation process](https://x.com/karpathy/status/1599852921541128194). Author: Andrej Karpathy. Published: 2022-12-05. Original capture: excerpt. Underlying work: `andrej-karpathy:x-conversation-1599852921541128194`.

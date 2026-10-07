@@ -2,13 +2,13 @@
 
 Running an expertise based service business
 
-This reference contains original research summaries and links to public work. It does not represent the person or their endorsement.
+This reference contains original research summaries and links to public work. It does not represent the person or imply endorsement.
 
 ## Coverage
 
-Research compiled October 2026. Source status: ready with gaps. Original text snapshots and bulk social archives are not distributed. Method labels below describe the original research, not a fresh audit of the public sources. Open the cited source before making a precise attribution or extending a method beyond this summary.
+Research snapshot: October 6, 2026. Archived X posts: 3,845. Distinct X posts cited below: 5. Other source entries: 1. Total source entries: 6.
 
-Sources summarized: 6. Repeated methods: 0. Candidates: 5.
+Archived posts are research inputs, not a fully reviewed curriculum, and are not included in this package. Cited entries may cover written excerpts, identity context, or limited visual observations. The source directory identifies the capture type. Method labels describe the original research; they are not a fresh audit or a guarantee of business results.
 
 * Deleted, protected, withheld, or unindexed posts may be unavailable. Query exhaustion is not proof of a complete archive.
 * Linked videos, images, external articles, and thread parents were not ingested unless specifically identified as reviewed.
@@ -46,9 +46,9 @@ Assess scope, participation, capacity, and fit before promising a compressed tim
 
 Original research status: candidate.
 
-Record what prospects understand, reject, and value. Use repeated patterns to refine a service or software business messaging and positioning instead of treating every objection only as something to overcome.
+Record what prospects understand, reject, and value. Use repeated patterns to refine the client business messaging and positioning instead of treating every objection only as something to overcome.
 
-* [Use sales conversations as market research](https://x.com/davidcbaker/status/1475899052239826946). Author: David C. Baker. Locator: X post 1475899052239826946, authored post text, published 2021-12-28. Record what prospects understand, reject, and value. Use repeated patterns to refine a service or software business messaging and positioning instead of treating every objection only as something to overcome.
+* [Use sales conversations as market research](https://x.com/davidcbaker/status/1475899052239826946). Author: David C. Baker. Locator: X post 1475899052239826946, authored post text, published 2021-12-28. Record what prospects understand, reject, and value. Use repeated patterns to refine the client business messaging and positioning instead of treating every objection only as something to overcome.
 
 ### Record lessons learned while serving clients
 
@@ -58,64 +58,13 @@ Capture concrete lessons and corrections from client work. Keep project observat
 
 * [Record lessons learned while serving clients](https://x.com/davidcbaker/status/1176593032914882561). Author: David C. Baker. Locator: X post 1176593032914882561, authored post text, published 2019-09-24. Capture concrete lessons and corrections from client work. Keep project observations separate from facts attributed to an expert, then use repeated business evidence to improve delivery.
 
-## Source summaries
+## Source directory
 
-### X identity and attribution check
+Open the original source before precise attribution or extending a method. Multiple entries may refer to the same underlying work. Company and joint authorship remain attributed to the source authors.
 
-[David C. Baker](https://thevisibleexpert.libsyn.com/david-c-baker-author-of-the-business-of-expertise-advisor-podcast-host)
-
-The publisher interview listing identifies davidcbaker. The API profile matches the author. His older Gravatar profile links the historical ReCourses handle. Unrelated David Baker accounts were excluded.
-
-Locator: Official public link and API profile matched on October 5, 2026
-
-Original capture: research_notes. Underlying work: `david-c-baker:x-identity-2026-10-05`.
-
-### Make positioning identify a reachable market
-
-[David C. Baker](https://x.com/davidcbaker/status/1684223941273874433)
-
-Define a narrower customer group and a concrete way to reach it before declaring positioning complete.
-
-Locator: X post 1684223941273874433, authored post text, published 2023-07-26
-
-Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1684223941273874433`.
-
-### Treat client communication as part of service quality
-
-[David C. Baker](https://x.com/davidcbaker/status/1636026268343779328)
-
-Make ownership, status, expectations, and next steps clear to clients.
-
-Locator: X post 1636026268343779328, authored post text, published 2023-03-15
-
-Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1636026268343779328`.
-
-### Qualify urgency instead of accepting every rush job
-
-[David C. Baker](https://x.com/davidcbaker/status/1636355253510582272)
-
-Assess scope, participation, capacity, and fit before promising a compressed timeline.
-
-Locator: X post 1636355253510582272, authored post text, published 2023-03-16
-
-Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1636355253510582272`.
-
-### Use sales conversations as market research
-
-[David C. Baker](https://x.com/davidcbaker/status/1475899052239826946)
-
-Record what prospects understand, reject, and value. Use repeated patterns to refine a service or software business messaging and positioning instead of treating every objection only as something to overcome.
-
-Locator: X post 1475899052239826946, authored post text, published 2021-12-28
-
-Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1475899052239826946`.
-
-### Record lessons learned while serving clients
-
-[David C. Baker](https://x.com/davidcbaker/status/1176593032914882561)
-
-Capture concrete lessons and corrections from client work. Keep project observations separate from facts attributed to an expert, then use repeated business evidence to improve delivery.
-
-Locator: X post 1176593032914882561, authored post text, published 2019-09-24
-
-Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1176593032914882561`.
+* [X identity and attribution check](https://thevisibleexpert.libsyn.com/david-c-baker-author-of-the-business-of-expertise-advisor-podcast-host). Author: David C. Baker. Published: unknown. Original capture: research_notes. Underlying work: `david-c-baker:x-identity-2026-10-05`.
+* [Make positioning identify a reachable market](https://x.com/davidcbaker/status/1684223941273874433). Author: David C. Baker. Published: 2023-07-26. Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1684223941273874433`.
+* [Treat client communication as part of service quality](https://x.com/davidcbaker/status/1636026268343779328). Author: David C. Baker. Published: 2023-03-15. Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1636026268343779328`.
+* [Qualify urgency instead of accepting every rush job](https://x.com/davidcbaker/status/1636355253510582272). Author: David C. Baker. Published: 2023-03-16. Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1636355253510582272`.
+* [Use sales conversations as market research](https://x.com/davidcbaker/status/1475899052239826946). Author: David C. Baker. Published: 2021-12-28. Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1475899052239826946`.
+* [Record lessons learned while serving clients](https://x.com/davidcbaker/status/1176593032914882561). Author: David C. Baker. Published: 2019-09-24. Original capture: excerpt. Underlying work: `david-c-baker:x-conversation-1176593032914882561`.

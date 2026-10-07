@@ -2,13 +2,13 @@
 
 Positioning, differentiation, and buyer tested messaging
 
-This reference contains original research summaries and links to public work. It does not represent the person or their endorsement.
+This reference contains original research summaries and links to public work. It does not represent the person or imply endorsement.
 
 ## Coverage
 
-Research compiled October 2026. Source status: ready with gaps. Original text snapshots and bulk social archives are not distributed. Method labels below describe the original research, not a fresh audit of the public sources. Open the cited source before making a precise attribution or extending a method beyond this summary.
+Research snapshot: October 6, 2026. Archived X posts: 276. Distinct X posts cited below: 2. Other source entries: 3. Total source entries: 5.
 
-Sources summarized: 5. Repeated methods: 1. Candidates: 2.
+Archived posts are research inputs, not a fully reviewed curriculum, and are not included in this package. Cited entries may cover written excerpts, identity context, or limited visual observations. The source directory identifies the capture type. Method labels describe the original research; they are not a fresh audit or a guarantee of business results.
 
 * This is a focused initial library, not the author’s full body of knowledge.
 * Books, linked media, interviews, and most saved posts have not been reviewed.
@@ -42,44 +42,12 @@ Record what would change the message or decision before seeking buyer feedback. 
 
 * [Let buyer evidence change the message](https://x.com/peeplaja/status/2092595763045937252). Author: Peep Laja. Locator: Authored X post 2092595763045937252. Use research to change a weak message or assumption, rather than treating it as confirmation of an existing preference.
 
-## Source summaries
+## Source directory
 
-### Public identity and account verification
+Open the original source before precise attribution or extending a method. Multiple entries may refer to the same underlying work. Company and joint authorship remain attributed to the source authors.
 
-[Peep Laja](https://peeplaja.com)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: research_notes. Underlying work: `peep-laja:identity`.
-
-### How to compete and win on messaging
-
-[Peep Laja](https://wynter.com/post/how-to-compete-and-win-on-messaging)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `peep-laja:messaging-2025`.
-
-### 8 lessons learned optimizing B2B SaaS pricing
-
-[Peep Laja](https://wynter.com/post/8-lessons-learned-optimizing-b2b-saas-pricing)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `peep-laja:pricing-communication`.
-
-### Check comprehension before expanding acquisition channels
-
-[Peep Laja](https://x.com/peeplaja/status/2027394828607054202)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `peep-laja:x-conversation-2027394828607054202`.
-
-### Let buyer evidence change the message
-
-[Peep Laja](https://x.com/peeplaja/status/2092595763045937252)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `peep-laja:x-conversation-2092595763045937252`.
+* [Public identity and account verification](https://peeplaja.com). Author: Peep Laja. Published: unknown. Original capture: research_notes. Underlying work: `peep-laja:identity`.
+* [How to compete and win on messaging](https://wynter.com/post/how-to-compete-and-win-on-messaging). Author: Peep Laja. Published: 2025-06-16. Original capture: excerpt. Underlying work: `peep-laja:messaging-2025`.
+* [8 lessons learned optimizing B2B SaaS pricing](https://wynter.com/post/8-lessons-learned-optimizing-b2b-saas-pricing). Author: Peep Laja. Published: unknown. Original capture: excerpt. Underlying work: `peep-laja:pricing-communication`.
+* [Check comprehension before expanding acquisition channels](https://x.com/peeplaja/status/2027394828607054202). Author: Peep Laja. Published: 2026-02-27. Original capture: excerpt. Underlying work: `peep-laja:x-conversation-2027394828607054202`.
+* [Let buyer evidence change the message](https://x.com/peeplaja/status/2092595763045937252). Author: Peep Laja. Published: 2026-08-26. Original capture: excerpt. Underlying work: `peep-laja:x-conversation-2092595763045937252`.

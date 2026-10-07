@@ -2,13 +2,13 @@
 
 Brand and marketing design, content structure, and creative direction
 
-This reference contains original research summaries and links to public work. It does not represent the person or their endorsement.
+This reference contains original research summaries and links to public work. It does not represent the person or imply endorsement.
 
 ## Coverage
 
-Research compiled October 2026. Source status: ready with gaps. Original text snapshots and bulk social archives are not distributed. Method labels below describe the original research, not a fresh audit of the public sources. Open the cited source before making a precise attribution or extending a method beyond this summary.
+Research snapshot: October 6, 2026. Archived X posts: 282. Distinct X posts cited below: 1. Other source entries: 4. Total source entries: 5.
 
-Sources summarized: 5. Repeated methods: 3. Candidates: 1.
+Archived posts are research inputs, not a fully reviewed curriculum, and are not included in this package. Cited entries may cover written excerpts, identity context, or limited visual observations. The source directory identifies the capture type. Method labels describe the original research; they are not a fresh audit or a guarantee of business results.
 
 * The searchable archive is not a complete timeline or a fully read curriculum.
 * Video coverage and private course material are unavailable.
@@ -52,44 +52,12 @@ Include the client brand attributes when selecting and testing type. A real cust
 * [Putting the art back into design](https://charlimarie.com/blog/art-in-design). Author: Charli Marie. Locator: Closing discussion of art and science. Keep expressive visual quality in the design brief as well as usability and conversion. Homogeneous marketing sites can result when distinctive visual appeal receives little design effort. The essay supports intentional personality, rather than requiring decorative effects on every website.
 * [Public teaching post 1829551489649713156](https://x.com/charliprangley/status/1829551489649713156). Author: Charli Marie. Locator: Author text in root post 1829551489649713156. The author describes how the intended Kit brand feeling is communicated through its custom font. A referenced follower reaction is context, not independent conversion evidence.
 
-## Source summaries
+## Source directory
 
-### Which comes first: the design or the copy?
+Open the original source before precise attribution or extending a method. Multiple entries may refer to the same underlying work. Company and joint authorship remain attributed to the source authors.
 
-[Charli Marie](https://charlimarie.com/blog/design-or-copy)
-
-Begin with the points the page must communicate. Research customers, the product, and competing alternatives. Shape the content hierarchy and visual hierarchy together, then refine the final wording. This is guidance for marketing pages, with no evidence of specific dealership or booking integrations.
-
-Original capture: excerpt. Underlying work: `charli-marie:design-or-copy`.
-
-### Outcomes vs output
-
-[Charli Marie](https://charlimarie.com/blog/outcomes-vs-output)
-
-Judge design by the business and customer results it produces. Review what happened after shipping and use those findings in the next design. Delivering a polished file does not establish that it solved the intended problem. The article does not supply conversion benchmarks.
-
-Original capture: excerpt. Underlying work: `charli-marie:outcomes-vs-output`.
-
-### Making friends with data
-
-[Charli Marie](https://charlimarie.com/blog/making-friends-with-data)
-
-Ask concrete questions of analytics, including where useful traffic comes from, where people act, and what they do next. Use those findings to choose changes or tests. Treat artistic quality and measurement as complementary. This does not prove a causal result for an individual design change.
-
-Original capture: excerpt. Underlying work: `charli-marie:making-friends-with-data`.
-
-### Putting the art back into design
-
-[Charli Marie](https://charlimarie.com/blog/art-in-design)
-
-Keep expressive visual quality in the design brief as well as usability and conversion. Homogeneous marketing sites can result when distinctive visual appeal receives little design effort. The essay supports intentional personality, rather than requiring decorative effects on every website.
-
-Original capture: excerpt. Underlying work: `charli-marie:art-in-design`.
-
-### Public teaching post 1829551489649713156
-
-[Charli Marie](https://x.com/charliprangley/status/1829551489649713156)
-
-The author describes how the intended Kit brand feeling is communicated through its custom font. A referenced follower reaction is context, not independent conversion evidence.
-
-Original capture: excerpt. Underlying work: `charli-marie:x-thread-1829551489649713156`.
+* [Which comes first: the design or the copy?](https://charlimarie.com/blog/design-or-copy). Author: Charli Marie. Published: 2021-01-31. Original capture: excerpt. Underlying work: `charli-marie:design-or-copy`.
+* [Outcomes vs output](https://charlimarie.com/blog/outcomes-vs-output). Author: Charli Marie. Published: 2022-12-22. Original capture: excerpt. Underlying work: `charli-marie:outcomes-vs-output`.
+* [Making friends with data](https://charlimarie.com/blog/making-friends-with-data). Author: Charli Marie. Published: 2022-05-29. Original capture: excerpt. Underlying work: `charli-marie:making-friends-with-data`.
+* [Putting the art back into design](https://charlimarie.com/blog/art-in-design). Author: Charli Marie. Published: 2021-01-17. Original capture: excerpt. Underlying work: `charli-marie:art-in-design`.
+* [Public teaching post 1829551489649713156](https://x.com/charliprangley/status/1829551489649713156). Author: Charli Marie. Published: 2024-08-30. Original capture: excerpt. Underlying work: `charli-marie:x-thread-1829551489649713156`.

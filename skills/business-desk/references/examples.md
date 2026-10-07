@@ -37,3 +37,13 @@ Use $business-desk to research [full name] in [field]. Build a personal library 
 ```text
 Use $business-desk to list the bundled reference catalog and any personal research libraries. Explain which ones are most useful for my business and where their evidence has gaps.
 ```
+
+## Cold outreach for your actual service
+
+Use Business Desk to draft a first email for my agency’s website service. Here are the prospect facts we verified and the offer we can deliver. Choose one relevant angle and one easy next step. Identify any sentence that needs more evidence before sending.
+
+Use Business Desk to diagnose this campaign. Separate contact errors, delivery evidence, replies, qualified interest, and sales. Propose one meaningful test without inventing prospect problems or guaranteeing a reply rate.
+
+## Complete website assessment
+
+Use Business Desk to plan this client website. Assess all 24 website areas, record which apply and why, select relevant expert sources, and define acceptance checks for the scoped customer journeys. Preserve the current platform and identify the integrations and access needed.

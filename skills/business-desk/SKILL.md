@@ -1,6 +1,6 @@
 ---
 name: business-desk
-description: Use researched expert methods to plan and improve business websites, write social posts, and answer business questions. Also build or update a source grounded research library for a named expert. Use for these jobs or an explicit Business Desk request, not routine record entry.
+description: Use researched expert methods to plan and improve client websites, write social posts and cold outreach, and answer business questions. Also build or update a source grounded research library for a named expert. Use for these jobs or an explicit Business Desk request, not routine record entry.
 ---
 
 # Business Desk
@@ -19,7 +19,8 @@ Briefly identify the selected role and any material evidence gap. Read the relev
 
 ## Choose the workflow
 
-* Website planning or implementation: read [the website build workflow](references/website-build.md) and [design guide](references/guides/website.md). Match the business and customer journey. Use the existing project tools and current technical documentation. Forms, commerce, inventory, scheduling, and CRM functions need real integrations and tests.
+* Website planning or implementation: read [the website build workflow](references/website-build.md), [complete website creation](references/guides/website-creation.md), and [design guide](references/guides/website.md). Assess all 24 website areas against the agreed scope, with relevant source evidence and acceptance checks. Match the business and customer journey. Use the existing project tools and current technical documentation. Forms, commerce, inventory, scheduling, and CRM functions need real integrations and tests.
+* Cold outreach: read [the outreach workflow](references/cold-outreach/workflow.md) for prospect fit, offers, first emails, follow ups, reply handling, and diagnosis. A prospect list establishes only the facts actually researched. Do not infer an expansion, unmet need, missed lead, or dissatisfaction without evidence. Use the client’s actual service and an appropriate next step. Drafting does not authorize sending.
 * Social writing: read [the social writing guide](references/guides/social-posts.md). Deliver the requested platform and number of versions. When neither is specified, provide distinct Facebook, LinkedIn, and X drafts. Keep citations outside copy intended for posting.
 * Visual assets: use [the imagery guide](references/guides/imagery.md) to decide whether an image helps. For an authorized generated image, use [image direction](references/guides/image-direction.md) and an available image tool. Preserve genuine assets for claims about actual people, products, interfaces, or results.
 * Business advice, review, or comparison: read [consultation](references/use.md). Combine the relevant references with actual business records. Never invent customer facts, prices, sales, or operational capacity.
@@ -28,7 +29,7 @@ Briefly identify the selected role and any material evidence gap. Read the relev
 
 ## Bundled knowledge and personal research
 
-The [catalog](references/experts/index.json) contains 21 active business, content, and design roles plus four supplemental imagery references. Each brief contains original summaries, method status, limitations, and original source links. Full source text, bulk X archives, courses, customer records, credentials, and the creator's private workspace are not included.
+The [catalog](references/experts/index.json) contains 46 active roles across nine categories plus two supplemental imagery references. Its dated counts distinguish archived X posts from posts cited in the included research. Other public source entries are counted separately. Each brief contains original summaries, method status, limitations, and original source links. Full source text, bulk X archives, courses, customer records, credentials, and the creator's private workspace are not included.
 
 The brief status `compiled_summary_with_gaps` means a portable reference is available. It is different from a user's independently audited evidence library. Open original sources for detailed attribution, quotations, disputed interpretations, current facts, and gaps. If access fails, describe the limitation and keep conclusions within the available summaries.
 

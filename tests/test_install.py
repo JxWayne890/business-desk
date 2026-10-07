@@ -28,7 +28,9 @@ class InstallTests(unittest.TestCase):
         result=install.install(self.source,self.skills)
         self.assertEqual(result['status'],'installed')
         self.assertEqual(install.verify(self.target),install.verify(self.source))
-        self.assertEqual(len(json.loads((self.target/'references/experts/index.json').read_text())),25)
+        self.assertEqual(len(json.loads((self.target/'references/experts/index.json').read_text())),48)
+        self.assertTrue((self.target/'references/cold-outreach/workflow.md').is_file())
+        self.assertEqual(len(json.loads((self.target/'references/website-categories.json').read_text())),24)
         self.assertEqual(install.install(self.source,self.skills)['status'],'already_current')
 
     def test_edits_preserved_by_default_and_backed_up_on_update(self):

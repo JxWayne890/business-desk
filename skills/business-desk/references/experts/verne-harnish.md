@@ -2,13 +2,13 @@
 
 Leadership accountability, priorities, and management meeting routines
 
-This reference contains original research summaries and links to public work. It does not represent the person or their endorsement.
+This reference contains original research summaries and links to public work. It does not represent the person or imply endorsement.
 
 ## Coverage
 
-Research compiled October 2026. Source status: ready with gaps. Original text snapshots and bulk social archives are not distributed. Method labels below describe the original research, not a fresh audit of the public sources. Open the cited source before making a precise attribution or extending a method beyond this summary.
+Research snapshot: October 6, 2026. Archived X posts: 200. Distinct X posts cited below: 1. Other source entries: 3. Total source entries: 4.
 
-Sources summarized: 4. Repeated methods: 1. Candidates: 1.
+Archived posts are research inputs, not a fully reviewed curriculum, and are not included in this package. Cited entries may cover written excerpts, identity context, or limited visual observations. The source directory identifies the capture type. Method labels describe the original research; they are not a fresh audit or a guarantee of business results.
 
 * This is a focused initial library, not the author’s full body of knowledge.
 * Books, linked media, interviews, and most saved posts have not been reviewed.
@@ -34,36 +34,11 @@ Choose a small set of measures relevant to the team’s work and inspect obstacl
 
 * [Connect priorities, metrics, and blockers in a huddle](https://x.com/agilescaleup/status/1882428573861982490). Author: Verne Harnish. Locator: Authored X post 1882428573861982490. Review today’s priority, a small set of useful measures, and obstacles requiring action. Adapt the cadence to the team.
 
-## Source summaries
+## Source directory
 
-### Public identity and account verification
+Open the original source before precise attribution or extending a method. Multiple entries may refer to the same underlying work. Company and joint authorship remain attributed to the source authors.
 
-[Verne Harnish](https://scalingup.com/verne-harnish)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: research_notes. Underlying work: `verne-harnish:identity`.
-
-### Sales Fundamentals: Daily Meetings
-
-[Verne Harnish](https://scalingup.com/blog/sales-fundamentals-daily-meetings)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `verne-harnish:huddle-2010`.
-
-### How an AI startup used the Scaling Up platform to increase profits
-
-[Verne Harnish](https://scalingup.com/blog/how-an-ai-startup-used-the-scaling-up-platform-to-increase-profits)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `verne-harnish:proof-case-2021`.
-
-### Connect priorities, metrics, and blockers in a huddle
-
-[Verne Harnish](https://x.com/agilescaleup/status/1882428573861982490)
-
-Identity or context reference. Inspect the public source before attributing a method.
-
-Original capture: excerpt. Underlying work: `verne-harnish:x-conversation-1882428573861982490`.
+* [Public identity and account verification](https://scalingup.com/verne-harnish). Author: Verne Harnish. Published: unknown. Original capture: research_notes. Underlying work: `verne-harnish:identity`.
+* [Sales Fundamentals: Daily Meetings](https://scalingup.com/blog/sales-fundamentals-daily-meetings). Author: Verne Harnish. Published: 2010-10-15. Original capture: excerpt. Underlying work: `verne-harnish:huddle-2010`.
+* [How an AI startup used the Scaling Up platform to increase profits](https://scalingup.com/blog/how-an-ai-startup-used-the-scaling-up-platform-to-increase-profits). Author: Verne Harnish. Published: 2021-05-17. Original capture: excerpt. Underlying work: `verne-harnish:proof-case-2021`.
+* [Connect priorities, metrics, and blockers in a huddle](https://x.com/agilescaleup/status/1882428573861982490). Author: Verne Harnish. Published: 2025-01-23. Original capture: excerpt. Underlying work: `verne-harnish:x-conversation-1882428573861982490`.

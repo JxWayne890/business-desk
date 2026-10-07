@@ -1,30 +1,27 @@
 # Package contents
 
-This release preserves the creator's working Business Desk approach in a portable package. It is not a copy of the creator's computer or business records.
+The agency edition provides one portable Business Desk skill. It combines source references and practical workflows with your host agent’s available tools.
 
 ## Included
 
-* The Business Desk skill entry point and job routing.
-* The website build workflow and detailed design guide used for client work.
-* Social writing, imagery, and AI image direction guides.
-* Original reference briefs for 21 active roles and four supplemental imagery roles.
-* Source links, authorship, method status, locators, original capture types, and coverage limits.
-* Research storage, source auditing, and optional verification receipt helpers adapted from the working skill.
-* An optional helper for bounded public X research through the user's own account.
-* Installation, update backups, example prompts, and a release checksum.
+* 46 active expert roles across nine categories, plus Jack Butcher and Chris Do as supplemental imagery references.
+* Original briefs, source links, authorship, capture types, method status, coverage gaps, and dated research counts.
+* A complete website workflow covering 24 areas, with source mappings, acceptance conditions, detailed design guidance, and dated official implementation references.
+* Social writing, imagery, image direction, and purposeful interface motion references.
+* Cold outreach guidance covering prospect fit, offers, emails, follow ups, replies, diagnosis, agency adaptation, and conflicting advice.
+* Research storage, source auditing, optional verification receipts, and bounded public X research helpers.
+* Installation, update backups, example prompts, integrity checks, and a release checksum.
 
-## Reference coverage
+The [research table](RESEARCH.md) lists every professional and distinguishes collected X posts from distinct posts cited in the included material. The [expert catalog](../skills/business-desk/references/experts/index.json) and [source directory](../skills/business-desk/references/experts/sources.json) provide machine readable metadata. The [website category register](../skills/business-desk/references/website-categories.json) maps the 24 website areas to relevant evidence.
 
-The website references include Paul Boag, Charli Marie, Steve Schoger, Erik Kennedy, Vitaly Friedman, Adham Dannaway, and Jen Simmons. Writing references include Dan Koe, Dickie Bush, and Justin Welsh. The catalog also covers sales, positioning, agency service work, management, finance practices, software businesses, discovery, and AI engineering.
+## How the references work
 
-Janis Ozolins, Jack Butcher, Chris Do, and Drew Brucker provide supplemental imagery references.
+The briefs contain original summaries and citations. A supported method has repeated support in the original research; a candidate has more limited evidence. Neither status proves universal effectiveness or complete coverage of a teacher’s work. Multiple excerpts or URLs can refer to one underlying work. Archived post counts do not imply every post was reviewed.
 
-All briefs are partial compiled summaries. A `supported` label describes repeated support in the original research. A `candidate` label identifies a method with limited independent evidence. Neither label means that every work by an author was read or that a business result is guaranteed.
+New research belongs in the user’s separate library. The raw evidence audit helper applies to that personal library, not to the bundled briefs. Package checks verify structure, consistency, and integrity. They do not establish the truth of every interpretation or the quality of every AI response.
 
-The package includes summaries with original source links rather than raw source text. A user can inspect those sources and build a new evidence library with the supplied tools. The raw evidence audit command applies to that personal library, not to the bundled briefs. Package validation checks file integrity and reference structure, not the truth of every interpretation or every AI output.
+## Supplied separately
 
-## Excluded
+Your AI access, development environment, hosting, commerce, CRM, email, scheduling, voice, image generation, and connected business accounts are supplied separately. Available tools and authorization determine which workflows can be implemented. A template or visual prototype is not a working integration.
 
-The creator's client records, proposals, prices, private conversations, local paths, credentials, paid API balance, source screenshots, full articles, bulk X archives, paid courses, and private coaching content are not included. Website frameworks, hosting, email, scheduling, voice, CRM, commerce, and image generation tools are supplied separately by the user's environment when needed.
-
-Role references do not reproduce a person or imply endorsement. Joint and company authorship remain labeled in the source summaries. Source metadata is available in [the source index](../skills/business-desk/references/experts/sources.json).
+The package excludes private business records, proposals, private conversations, credentials, personal paths, raw research archives, source screenshots, full articles, courses, and private coaching content. No listed professional endorses the package.

@@ -42,7 +42,7 @@ class PackageTests(unittest.TestCase):
     def test_current_package_has_portable_complete_references(self):
         result=validate()
         self.assertTrue(result['ok'])
-        self.assertEqual(result['expert_briefs'],25)
+        self.assertEqual(result['expert_briefs'],48)
         self.assertGreater(result['source_entries'],100)
 
 if __name__=='__main__':

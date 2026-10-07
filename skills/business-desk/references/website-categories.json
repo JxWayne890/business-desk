@@ -1,0 +1,2086 @@
+[
+  {
+    "id": 1,
+    "name": "Business discovery and website strategy",
+    "lead": "paul-boag",
+    "support": [
+      "peep-laja",
+      "joanna-wiebe"
+    ],
+    "acceptance": "An approved brief identifies the offer, audience, priority task, verified facts, scope, platform, constraints and measurable business outcome.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "se2e404253c27b33c",
+        "url": "https://copyhackers.com/a-super-speedy-formula-to-find-voc-fast/",
+        "title": "A super-speedy formula to find VoC fast | Write like a human | Convert like a badass",
+        "work_id": "joanna-wiebe:joanna-voc",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "paul-boag",
+        "source_id": "sf3a02ac1a115e4b6",
+        "url": "https://boagworld.com/emails/introducing-supa/",
+        "title": "Strategic User Driven Project Assessment",
+        "work_id": "paul-boag:introducing-supa",
+        "capture": "excerpt",
+        "method_id": "research-before-solution",
+        "method_status": "supported",
+        "source_page": "experts/paul-boag.md"
+      },
+      {
+        "slug": "paul-boag",
+        "source_id": "sb3f81f3d0d832c1b",
+        "url": "https://boagworld.com/usability/customer-journey-mapping/",
+        "title": "Customer Journey Mapping",
+        "work_id": "paul-boag:customer-journey-mapping",
+        "capture": "excerpt",
+        "method_id": "research-before-solution",
+        "method_status": "supported",
+        "source_page": "experts/paul-boag.md"
+      }
+    ],
+    "remaining_questions": [
+      "The client’s offer, audience and scope must be supplied and verified."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 2,
+    "name": "Customer journeys and site architecture",
+    "lead": "paul-boag",
+    "support": [
+      "vitaly-friedman",
+      "knut-melvaer"
+    ],
+    "acceptance": "A page and journey map connects each entry point to a useful next action. Navigation, search and content relationships fit the customer task.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s8b6817753be5e04d",
+        "url": "https://www.sanity.io/blog/why-content-modeling-early-unlocks-value",
+        "title": "Why content modeling early unlocks value | Sanity",
+        "work_id": "knut-melvaer:knut-model-early",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "se451d12cd2fc904d",
+        "url": "https://www.sanity.io/guides/portable-text-internal-and-external-links",
+        "title": "Internal and external links with Portable Text | Sanity.io guide",
+        "work_id": "knut-melvaer:knut-internal-links",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "paul-boag",
+        "source_id": "sb3f81f3d0d832c1b",
+        "url": "https://boagworld.com/usability/customer-journey-mapping/",
+        "title": "Customer Journey Mapping",
+        "work_id": "paul-boag:customer-journey-mapping",
+        "capture": "excerpt",
+        "method_id": "journey-scope",
+        "method_status": "candidate",
+        "source_page": "experts/paul-boag.md"
+      },
+      {
+        "slug": "vitaly-friedman",
+        "source_id": "s69e50ce81a58c1f9",
+        "url": "https://www.smashingmagazine.com/2018/02/designing-a-perfect-responsive-configurator/",
+        "title": "Designing a Perfect Configurator UX",
+        "work_id": "vitaly-friedman:responsive-configurator",
+        "capture": "excerpt",
+        "method_id": "context-first",
+        "method_status": "supported",
+        "source_page": "experts/vitaly-friedman.md"
+      },
+      {
+        "slug": "vitaly-friedman",
+        "source_id": "s7c0bc1e6f136863f",
+        "url": "https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/",
+        "title": "Smart Responsive Design Patterns",
+        "work_id": "vitaly-friedman:responsive-design-patterns",
+        "capture": "excerpt",
+        "method_id": "context-first",
+        "method_status": "supported",
+        "source_page": "experts/vitaly-friedman.md"
+      },
+      {
+        "slug": "vitaly-friedman",
+        "source_id": "sa0df01689ef02699",
+        "url": "https://www.smashingmagazine.com/2017/08/designing-perfect-feature-comparison-table/",
+        "title": "Designing the Perfect Feature Comparison Table",
+        "work_id": "vitaly-friedman:feature-comparison",
+        "capture": "excerpt",
+        "method_id": "context-first",
+        "method_status": "supported",
+        "source_page": "experts/vitaly-friedman.md"
+      }
+    ],
+    "remaining_questions": [
+      "The actual entry pages and customer tasks determine the journey."
+    ],
+    "official_baselines": [
+      "google-seo"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 3,
+    "name": "Positioning and website copy",
+    "lead": "joanna-wiebe",
+    "support": [
+      "peep-laja",
+      "andy-crestodina"
+    ],
+    "acceptance": "Copy names the audience, offer, relevant difference, customer problem and supported value. Each claim has facts or a disclosed gap.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "s83eee152fefc3ead",
+        "url": "https://copyhackers.com/2016/06/copywriting-principles-sweatblock/",
+        "title": "3 copywriting principles (for 2x revenue)",
+        "work_id": "joanna-wiebe:joanna-hierarchy",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "s5d37a00ff4ec72d2",
+        "url": "https://copyhackers.com/2015/10/copywriting-formula/",
+        "title": "Copywriting Formulas - the ultimate guide. 200+ examples.",
+        "work_id": "joanna-wiebe:joanna-formulas",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "se2e404253c27b33c",
+        "url": "https://copyhackers.com/a-super-speedy-formula-to-find-voc-fast/",
+        "title": "A super-speedy formula to find VoC fast | Write like a human | Convert like a badass",
+        "work_id": "joanna-wiebe:joanna-voc",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "sd4257f01367892d8",
+        "url": "https://copyhackers.com/2013/02/differentiation/",
+        "title": "Differentiation and Your Home Page Visitors | Copy Hackers",
+        "work_id": "joanna-wiebe:joanna-differentiation",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s4edf498eea9ea129",
+        "url": "https://www.orbitmedia.com/blog/increase-conversion-rate/",
+        "title": "Lead Generation 101: How to Increase Conversion Rates on Your B2B Website",
+        "work_id": "andy-crestodina:andy-clarity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "se2eb75d9f2a07137",
+        "url": "https://www.orbitmedia.com/blog/specificity-webpages/",
+        "title": "The One Prompt That Improves Any Page …by Checking for 5 Types of Specificity | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-specificity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "se8c581defab63cf2",
+        "url": "https://x.com/copyhackers/status/1001208510087073793",
+        "title": "Joanna Wiebe, public X teaching 2018-05-28",
+        "work_id": "joanna-wiebe:x:1001208510087073793",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "s574be30c5d23de3e",
+        "url": "https://wynter.com/post/how-to-compete-and-win-on-messaging",
+        "title": "How to compete and win on messaging",
+        "work_id": "peep-laja:messaging-2025",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "sb9035c5167b0a077",
+        "url": "https://wynter.com/post/8-lessons-learned-optimizing-b2b-saas-pricing",
+        "title": "8 lessons learned optimizing B2B SaaS pricing",
+        "work_id": "peep-laja:pricing-communication",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "s6e58a2b7d80ea829",
+        "url": "https://x.com/peeplaja/status/2027394828607054202",
+        "title": "Check comprehension before expanding acquisition channels",
+        "work_id": "peep-laja:x-conversation-2027394828607054202",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "sb2ec845aeeeac947",
+        "url": "https://x.com/peeplaja/status/2092595763045937252",
+        "title": "Let buyer evidence change the message",
+        "work_id": "peep-laja:x-conversation-2092595763045937252",
+        "capture": "excerpt",
+        "method_id": "respond-to-evidence",
+        "method_status": "candidate",
+        "source_page": "experts/peep-laja.md"
+      }
+    ],
+    "remaining_questions": [
+      "Customer language and substantiated business differences remain client inputs."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 4,
+    "name": "Visual and brand direction",
+    "lead": "charli-marie",
+    "support": [
+      "erik-kennedy",
+      "steve-schoger"
+    ],
+    "acceptance": "The visual brief specifies typography, palette, spacing, imagery and a client specific motif with a rationale grounded in the brand and audience.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "charli-marie",
+        "source_id": "s1ec8ef26340989ce",
+        "url": "https://charlimarie.com/blog/design-or-copy",
+        "title": "Which comes first: the design or the copy?",
+        "work_id": "charli-marie:design-or-copy",
+        "capture": "excerpt",
+        "method_id": "content-first",
+        "method_status": "candidate",
+        "source_page": "experts/charli-marie.md"
+      },
+      {
+        "slug": "erik-kennedy",
+        "source_id": "s9ec0abfdc59d222d",
+        "url": "https://www.learnui.design/blog/spice-up-designs-create-cohesive-brand.html",
+        "title": "Visual motifs for a more cohesive brand",
+        "work_id": "erik-kennedy:cohesive-brand-motifs",
+        "capture": "excerpt",
+        "method_id": "brand-visual-language",
+        "method_status": "supported",
+        "source_page": "experts/erik-kennedy.md"
+      },
+      {
+        "slug": "erik-kennedy",
+        "source_id": "s15c083069aeddc67",
+        "url": "https://www.learnui.design/blog/hard-in-figma.html",
+        "title": "Do What Is Hard To Do In Figma, A Design Manifesto",
+        "work_id": "erik-kennedy:hard-in-figma",
+        "capture": "excerpt",
+        "method_id": "brand-visual-language",
+        "method_status": "supported",
+        "source_page": "experts/erik-kennedy.md"
+      },
+      {
+        "slug": "steve-schoger",
+        "source_id": "s894190240bb5158e",
+        "url": "https://x.com/steveschoger/status/877558258755612672",
+        "title": "Public teaching post 877558258755612672",
+        "work_id": "steve-schoger:x-thread-877558258755612672",
+        "capture": "excerpt",
+        "method_id": "typographic-hierarchy",
+        "method_status": "supported",
+        "source_page": "experts/steve-schoger.md"
+      },
+      {
+        "slug": "steve-schoger",
+        "source_id": "s9d1217d51356488b",
+        "url": "https://x.com/steveschoger/status/870679289624092673",
+        "title": "Public teaching post 870679289624092673",
+        "work_id": "steve-schoger:x-thread-870679289624092673",
+        "capture": "excerpt",
+        "method_id": "typographic-hierarchy",
+        "method_status": "supported",
+        "source_page": "experts/steve-schoger.md"
+      }
+    ],
+    "remaining_questions": [
+      "The final brand direction needs the client’s assets and content."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 5,
+    "name": "Hero section structure",
+    "lead": "joanna-wiebe",
+    "support": [
+      "andy-crestodina",
+      "erik-kennedy"
+    ],
+    "acceptance": "The first screen explains the actual offer and context, gives relevant evidence and presents the intended action. Its structure fits the business and reading order.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "s83eee152fefc3ead",
+        "url": "https://copyhackers.com/2016/06/copywriting-principles-sweatblock/",
+        "title": "3 copywriting principles (for 2x revenue)",
+        "work_id": "joanna-wiebe:joanna-hierarchy",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "s5d37a00ff4ec72d2",
+        "url": "https://copyhackers.com/2015/10/copywriting-formula/",
+        "title": "Copywriting Formulas - the ultimate guide. 200+ examples.",
+        "work_id": "joanna-wiebe:joanna-formulas",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s4edf498eea9ea129",
+        "url": "https://www.orbitmedia.com/blog/increase-conversion-rate/",
+        "title": "Lead Generation 101: How to Increase Conversion Rates on Your B2B Website",
+        "work_id": "andy-crestodina:andy-clarity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "se2eb75d9f2a07137",
+        "url": "https://www.orbitmedia.com/blog/specificity-webpages/",
+        "title": "The One Prompt That Improves Any Page …by Checking for 5 Types of Specificity | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-specificity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "se8c581defab63cf2",
+        "url": "https://x.com/copyhackers/status/1001208510087073793",
+        "title": "Joanna Wiebe, public X teaching 2018-05-28",
+        "work_id": "joanna-wiebe:x:1001208510087073793",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "erik-kennedy",
+        "source_id": "s9ec0abfdc59d222d",
+        "url": "https://www.learnui.design/blog/spice-up-designs-create-cohesive-brand.html",
+        "title": "Visual motifs for a more cohesive brand",
+        "work_id": "erik-kennedy:cohesive-brand-motifs",
+        "capture": "excerpt",
+        "method_id": "brand-visual-language",
+        "method_status": "supported",
+        "source_page": "experts/erik-kennedy.md"
+      },
+      {
+        "slug": "erik-kennedy",
+        "source_id": "s15c083069aeddc67",
+        "url": "https://www.learnui.design/blog/hard-in-figma.html",
+        "title": "Do What Is Hard To Do In Figma, A Design Manifesto",
+        "work_id": "erik-kennedy:hard-in-figma",
+        "capture": "excerpt",
+        "method_id": "brand-visual-language",
+        "method_status": "supported",
+        "source_page": "experts/erik-kennedy.md"
+      }
+    ],
+    "remaining_questions": [
+      "A tested copy example does not prescribe one universal hero order."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 6,
+    "name": "Hero image design",
+    "lead": "drew-brucker",
+    "support": [
+      "andy-crestodina",
+      "ahmad-shadeed",
+      "knut-melvaer"
+    ],
+    "acceptance": "The image brief defines subject, composition, lighting, palette, crop, text space, aspect ratios and truthful use. Generated imagery is inspected at desktop and mobile sizes.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "andy-crestodina",
+        "source_id": "se2eb75d9f2a07137",
+        "url": "https://www.orbitmedia.com/blog/specificity-webpages/",
+        "title": "The One Prompt That Improves Any Page …by Checking for 5 Types of Specificity | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-specificity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "sf41cbf74a19d96d5",
+        "url": "https://css-tricks.com/five-interesting-ways-to-use-sanity-io-for-image-art-direction/",
+        "title": "Five interesting ways to use Sanity.io for image art direction | CSS-Tricks",
+        "work_id": "knut-melvaer:knut-image-direction",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "drew-brucker",
+        "source_id": "s464b08bb39b5cc77",
+        "url": "https://x.com/dcbruck/status/1686521919326081024",
+        "title": "Photography foundations before prompt tricks",
+        "work_id": "drew-brucker:post:1686521919326081024",
+        "capture": "excerpt",
+        "method_id": "direction",
+        "method_status": "supported",
+        "source_page": "experts/drew-brucker.md"
+      },
+      {
+        "slug": "drew-brucker",
+        "source_id": "s37cc2c4edddefa69",
+        "url": "https://x.com/dcbruck/status/1986480028352163959",
+        "title": "Creative levers, camera and subject",
+        "work_id": "drew-brucker:creative-levers-series-2025",
+        "capture": "excerpt",
+        "method_id": "direction",
+        "method_status": "supported",
+        "source_page": "experts/drew-brucker.md"
+      },
+      {
+        "slug": "drew-brucker",
+        "source_id": "sab9c6fdb79407e88",
+        "url": "https://x.com/dcbruck/status/1970543507715547498",
+        "title": "Lighting Pocket Guide",
+        "work_id": "drew-brucker:lighting-pocket-guide",
+        "capture": "excerpt",
+        "method_id": "light",
+        "method_status": "supported",
+        "source_page": "experts/drew-brucker.md"
+      },
+      {
+        "slug": "drew-brucker",
+        "source_id": "sf4a1e39083d5174a",
+        "url": "https://x.com/dcbruck/status/1948398356360839514",
+        "title": "Frame and aspect ratio with purpose",
+        "work_id": "drew-brucker:aspect-ratio-guide-2025",
+        "capture": "excerpt",
+        "method_id": "frame",
+        "method_status": "supported",
+        "source_page": "experts/drew-brucker.md"
+      }
+    ],
+    "remaining_questions": [
+      "Client photo rights, truthful use and actual generated outputs require review."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 7,
+    "name": "OG and social preview design",
+    "lead": "lee-robinson",
+    "support": [
+      "janis-ozolins",
+      "charli-marie"
+    ],
+    "acceptance": "Each public page has appropriate title, description, canonical URL and reachable share image. A real preview or documented crawler check verifies readable crops and metadata.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "lee-robinson",
+        "source_id": "s0489c478cc5af9f1",
+        "url": "https://leerob.com/og",
+        "title": "Open Graph Preview Tool | Lee Robinson",
+        "work_id": "lee-robinson:og-preview-tool",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "s0aae6a181c26264f",
+        "url": "https://x.com/leerob/status/1777327479230783534",
+        "title": "Lee Robinson, public X teaching 2024-04-08",
+        "work_id": "lee-robinson:x:1777327479230783534",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "janis-ozolins",
+        "source_id": "se063dcea304e0bf6",
+        "url": "https://x.com/OzolinsJanis/status/1392436333281521666",
+        "title": "Thread remove",
+        "work_id": "janis-ozolins:process-thread-1392436317846376448",
+        "capture": "excerpt",
+        "method_id": "idea_clarity",
+        "method_status": "supported",
+        "source_page": "experts/janis-ozolins.md"
+      },
+      {
+        "slug": "janis-ozolins",
+        "source_id": "sd56acf695ab28fec",
+        "url": "https://ozo.art/archive/make-average-ideas-look-extraordinary/",
+        "title": "Make Average Ideas Look Extraordinary",
+        "work_id": "janis-ozolins:clarify",
+        "capture": "excerpt",
+        "method_id": "idea_clarity",
+        "method_status": "supported",
+        "source_page": "experts/janis-ozolins.md"
+      },
+      {
+        "slug": "janis-ozolins",
+        "source_id": "s3a77a6593f0a82dc",
+        "url": "https://ozo.art/archive/4-ideas-life-happens-honor-freedom-loop-till-u-know-size-matters/",
+        "title": "Size and weight guide the reading order",
+        "work_id": "janis-ozolins:size",
+        "capture": "excerpt",
+        "method_id": "hierarchy",
+        "method_status": "candidate",
+        "source_page": "experts/janis-ozolins.md"
+      },
+      {
+        "slug": "charli-marie",
+        "source_id": "s1ec8ef26340989ce",
+        "url": "https://charlimarie.com/blog/design-or-copy",
+        "title": "Which comes first: the design or the copy?",
+        "work_id": "charli-marie:design-or-copy",
+        "capture": "excerpt",
+        "method_id": "content-first",
+        "method_status": "candidate",
+        "source_page": "experts/charli-marie.md"
+      }
+    ],
+    "remaining_questions": [
+      "Native sharing behavior and crawler caches require checks on the actual published URL."
+    ],
+    "official_baselines": [
+      "og",
+      "next-metadata"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 8,
+    "name": "UI components and design systems",
+    "lead": "steve-schoger",
+    "support": [
+      "erik-kennedy",
+      "ahmad-shadeed"
+    ],
+    "acceptance": "Reusable tokens and components cover actual content, hierarchy and interaction states. Repeated sections share deliberate design rules without flattening the client brand.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s0bed30fe814a32dc",
+        "url": "https://ishadeed.com/article/css-container-query-guide/",
+        "title": "An Interactive Guide to CSS Container Queries",
+        "work_id": "ahmad-shadeed:ahmad-container",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s3c02bfda30e63450",
+        "url": "https://ishadeed.com/article/responsive-design/",
+        "title": "The Guide To Responsive Design In 2023 and Beyond",
+        "work_id": "ahmad-shadeed:ahmad-content",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s91058ee47a434993",
+        "url": "https://x.com/shadeed9/status/1697609046646313227",
+        "title": "Ahmad Shadeed, public X teaching 2023-09-01",
+        "work_id": "ahmad-shadeed:x:1697609046646313227",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "steve-schoger",
+        "source_id": "s894190240bb5158e",
+        "url": "https://x.com/steveschoger/status/877558258755612672",
+        "title": "Public teaching post 877558258755612672",
+        "work_id": "steve-schoger:x-thread-877558258755612672",
+        "capture": "excerpt",
+        "method_id": "typographic-hierarchy",
+        "method_status": "supported",
+        "source_page": "experts/steve-schoger.md"
+      },
+      {
+        "slug": "steve-schoger",
+        "source_id": "s9d1217d51356488b",
+        "url": "https://x.com/steveschoger/status/870679289624092673",
+        "title": "Public teaching post 870679289624092673",
+        "work_id": "steve-schoger:x-thread-870679289624092673",
+        "capture": "excerpt",
+        "method_id": "typographic-hierarchy",
+        "method_status": "supported",
+        "source_page": "experts/steve-schoger.md"
+      },
+      {
+        "slug": "steve-schoger",
+        "source_id": "s0cf58e72a4679d72",
+        "url": "https://x.com/steveschoger/status/1260223160588386304",
+        "title": "Public teaching post 1260223160588386304",
+        "work_id": "steve-schoger:refactoring-ui-public-examples",
+        "capture": "excerpt",
+        "method_id": "option-hierarchy",
+        "method_status": "candidate",
+        "source_page": "experts/steve-schoger.md"
+      },
+      {
+        "slug": "erik-kennedy",
+        "source_id": "s97f0861f9406a80c",
+        "url": "https://www.learnui.design/blog/4-rules-intuitive-ux.html",
+        "title": "Four Rules for Intuitive UX",
+        "work_id": "erik-kennedy:four-rules-intuitive-ux",
+        "capture": "excerpt",
+        "method_id": "local-controls",
+        "method_status": "candidate",
+        "source_page": "experts/erik-kennedy.md"
+      }
+    ],
+    "remaining_questions": [
+      "Component content and state coverage require the actual client interface."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 9,
+    "name": "Industry specific functionality",
+    "lead": "vitaly-friedman",
+    "support": [
+      "kurt-elster",
+      "knut-melvaer"
+    ],
+    "acceptance": "Required industry journeys use real structured data, update ownership and honest states. Inventory, checkout, service inquiry, clinic scheduling or agency discovery are included only when relevant and scoped.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s8b6817753be5e04d",
+        "url": "https://www.sanity.io/blog/why-content-modeling-early-unlocks-value",
+        "title": "Why content modeling early unlocks value | Sanity",
+        "work_id": "knut-melvaer:knut-model-early",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s18386735bc4f7327",
+        "url": "https://www.knut.fyi/blog/2026-06-04/the-10-laws-of-developer-experience-for-content-management-systems",
+        "title": "The 10 laws of developer experience for content management systems | Knut Melvær",
+        "work_id": "knut-melvaer:knut-domain",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "kurt-elster",
+        "source_id": "s7a31dd5642427dce",
+        "url": "https://ethercycle.com/blogs/unofficial-shopify-podcast/state-of-discounts-2026",
+        "title": "Shopify Discounts Analysis: $29M Insights for Merchants",
+        "work_id": "kurt-elster:kurt-purposeful-promotion",
+        "capture": "excerpt",
+        "source_page": "experts/kurt-elster.md"
+      },
+      {
+        "slug": "kurt-elster",
+        "source_id": "sc6b8bb8573bd2ca5",
+        "url": "https://x.com/kurtinc/status/1671546026430193668",
+        "title": "Kurt Elster, public X teaching 2023-06-21",
+        "work_id": "kurt-elster:x:1671546026430193668",
+        "capture": "excerpt",
+        "source_page": "experts/kurt-elster.md"
+      },
+      {
+        "slug": "kurt-elster",
+        "source_id": "s8c081f652f2582b5",
+        "url": "https://x.com/kurtinc/status/2011138550977155415",
+        "title": "Kurt Elster, public X teaching 2026-01-13",
+        "work_id": "kurt-elster:x:2011138550977155415",
+        "capture": "excerpt",
+        "source_page": "experts/kurt-elster.md"
+      },
+      {
+        "slug": "vitaly-friedman",
+        "source_id": "s69e50ce81a58c1f9",
+        "url": "https://www.smashingmagazine.com/2018/02/designing-a-perfect-responsive-configurator/",
+        "title": "Designing a Perfect Configurator UX",
+        "work_id": "vitaly-friedman:responsive-configurator",
+        "capture": "excerpt",
+        "method_id": "context-first",
+        "method_status": "supported",
+        "source_page": "experts/vitaly-friedman.md"
+      },
+      {
+        "slug": "vitaly-friedman",
+        "source_id": "s7c0bc1e6f136863f",
+        "url": "https://www.smashingmagazine.com/2016/05/smart-responsive-design-patterns-or-when-off-canvas-isnt-good-enough/",
+        "title": "Smart Responsive Design Patterns",
+        "work_id": "vitaly-friedman:responsive-design-patterns",
+        "capture": "excerpt",
+        "method_id": "context-first",
+        "method_status": "supported",
+        "source_page": "experts/vitaly-friedman.md"
+      },
+      {
+        "slug": "vitaly-friedman",
+        "source_id": "sa0df01689ef02699",
+        "url": "https://www.smashingmagazine.com/2017/08/designing-perfect-feature-comparison-table/",
+        "title": "Designing the Perfect Feature Comparison Table",
+        "work_id": "vitaly-friedman:feature-comparison",
+        "capture": "excerpt",
+        "method_id": "context-first",
+        "method_status": "supported",
+        "source_page": "experts/vitaly-friedman.md"
+      }
+    ],
+    "remaining_questions": [
+      "Inventory, variants, stock and appointments depend on the real platform and operational data."
+    ],
+    "official_baselines": [
+      "shopify-product"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 10,
+    "name": "Forms and conversion flows",
+    "lead": "adam-silver",
+    "support": [
+      "sara-soueidan",
+      "andy-crestodina"
+    ],
+    "acceptance": "Every scoped form has clear questions, labels, validation, recovery and submission status. A meaningful test confirms its intended receiving system and avoids duplicate submissions.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s4edf498eea9ea129",
+        "url": "https://www.orbitmedia.com/blog/increase-conversion-rate/",
+        "title": "Lead Generation 101: How to Increase Conversion Rates on Your B2B Website",
+        "work_id": "andy-crestodina:andy-clarity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "adam-silver",
+        "source_id": "s9b1457eab41bd8c0",
+        "url": "https://adamsilver.io/blog/the-first-law-of-form-design/",
+        "title": "The first law of form design – Adam Silver – designer, London, UK",
+        "work_id": "adam-silver:form-design-laws",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      },
+      {
+        "slug": "adam-silver",
+        "source_id": "s2b0da966ad974120",
+        "url": "https://adamsilver.io/blog/the-second-law-of-form-design/",
+        "title": "The second law of form design – Adam Silver – designer, London, UK",
+        "work_id": "adam-silver:form-design-laws",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      },
+      {
+        "slug": "adam-silver",
+        "source_id": "s6fe77ef180eb4d10",
+        "url": "https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/",
+        "title": "The problem with disabled buttons and what to do instead – Adam Silver – designer, London, UK",
+        "work_id": "adam-silver:adam-disabled",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      },
+      {
+        "slug": "adam-silver",
+        "source_id": "sc0794a934de169d2",
+        "url": "https://adamsilver.io/blog/the-perfect-file-upload-pattern/",
+        "title": "The perfect file upload pattern – Adam Silver – designer, London, UK",
+        "work_id": "adam-silver:adam-upload",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s94977915db6b5ccb",
+        "url": "https://www.sarasoueidan.com/blog/accessible-text-labels/",
+        "title": "Accessible Text Labels For All",
+        "work_id": "sara-soueidan:sara-labels",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "sad6aa6cc87f21425",
+        "url": "https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
+        "title": "Accessible notifications with ARIA Live Regions (Part 1)",
+        "work_id": "sara-soueidan:sara-status",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "adam-silver",
+        "source_id": "s861db1349ebb1c55",
+        "url": "https://x.com/adamsilverhq/status/1990755634946715915",
+        "title": "Adam Silver, public X teaching 2025-11-18",
+        "work_id": "adam-silver:form-design-laws",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      }
+    ],
+    "remaining_questions": [
+      "Receiving system and duplicate submission behavior must be verified on the real form."
+    ],
+    "official_baselines": [
+      "shopify-product"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 11,
+    "name": "Mobile and responsive design",
+    "lead": "ahmad-shadeed",
+    "support": [
+      "jen-simmons",
+      "sara-soueidan"
+    ],
+    "acceptance": "Representative pages and journeys work with real content at narrow, intermediate and wide widths, zoom and applicable input types. Crops, navigation and tables remain usable.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s42c3cae8deda8cf5",
+        "url": "https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+        "title": "Component-level art direction with CSS Container Queries",
+        "work_id": "sara-soueidan:sara-art-direction",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s0bed30fe814a32dc",
+        "url": "https://ishadeed.com/article/css-container-query-guide/",
+        "title": "An Interactive Guide to CSS Container Queries",
+        "work_id": "ahmad-shadeed:ahmad-container",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s3c02bfda30e63450",
+        "url": "https://ishadeed.com/article/responsive-design/",
+        "title": "The Guide To Responsive Design In 2023 and Beyond",
+        "work_id": "ahmad-shadeed:ahmad-content",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s17d161e4eedf089b",
+        "url": "https://ishadeed.com/article/time-layout/",
+        "title": "Better CSS layouts: Time.com Hero Section",
+        "work_id": "ahmad-shadeed:ahmad-hero-layout",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "ahmad-shadeed",
+        "source_id": "s91058ee47a434993",
+        "url": "https://x.com/shadeed9/status/1697609046646313227",
+        "title": "Ahmad Shadeed, public X teaching 2023-09-01",
+        "work_id": "ahmad-shadeed:x:1697609046646313227",
+        "capture": "excerpt",
+        "source_page": "experts/ahmad-shadeed.md"
+      },
+      {
+        "slug": "jen-simmons",
+        "source_id": "sb82450553f9c3118",
+        "url": "https://labs.jensimmons.com/",
+        "title": "The Experimental Layout Lab",
+        "work_id": "jen-simmons:experimental-layout-lab",
+        "capture": "excerpt",
+        "method_id": "content-layout",
+        "method_status": "candidate",
+        "source_page": "experts/jen-simmons.md"
+      }
+    ],
+    "remaining_questions": [
+      "Historical browser demonstrations do not establish current support."
+    ],
+    "official_baselines": [
+      "wcag"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 12,
+    "name": "Accessibility",
+    "lead": "sara-soueidan",
+    "support": [
+      "adam-silver",
+      "kent-c-dodds"
+    ],
+    "acceptance": "Keyboard, focus, labels, structure, contrast, zoom and dynamic status checks are recorded. Automated checks supplement manual checks, with current standards and any untested assistive modes stated.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "adam-silver",
+        "source_id": "s6fe77ef180eb4d10",
+        "url": "https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/",
+        "title": "The problem with disabled buttons and what to do instead – Adam Silver – designer, London, UK",
+        "work_id": "adam-silver:adam-disabled",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s94977915db6b5ccb",
+        "url": "https://www.sarasoueidan.com/blog/accessible-text-labels/",
+        "title": "Accessible Text Labels For All",
+        "work_id": "sara-soueidan:sara-labels",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s5cdb5fb23501da9f",
+        "url": "https://www.sarasoueidan.com/blog/focus-indicators/",
+        "title": "A guide to designing accessible, WCAG-conformant focus indicators",
+        "work_id": "sara-soueidan:sara-focus",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "sad6aa6cc87f21425",
+        "url": "https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
+        "title": "Accessible notifications with ARIA Live Regions (Part 1)",
+        "work_id": "sara-soueidan:sara-status",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "sd89bfdbf6acf3aa3",
+        "url": "https://kentcdodds.com/blog/common-mistakes-with-react-testing-library",
+        "title": "Common mistakes with React Testing Library",
+        "work_id": "kent-c-dodds:kent-accessible-queries",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "adam-silver",
+        "source_id": "s861db1349ebb1c55",
+        "url": "https://x.com/adamsilverhq/status/1990755634946715915",
+        "title": "Adam Silver, public X teaching 2025-11-18",
+        "work_id": "adam-silver:form-design-laws",
+        "capture": "excerpt",
+        "source_page": "experts/adam-silver.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s025d9dd233860e9b",
+        "url": "https://x.com/SaraSoueidan/status/1799089082686902680",
+        "title": "Sara Soueidan, public X teaching 2024-06-07",
+        "work_id": "sara-soueidan:x:1799089082686902680",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s3f4a7e2f2cb8a2d8",
+        "url": "https://x.com/SaraSoueidan/status/1160912757157486592",
+        "title": "Sara Soueidan, public X teaching 2019-08-12",
+        "work_id": "sara-soueidan:x:1160912757157486592",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      }
+    ],
+    "remaining_questions": [
+      "Some X guidance and article conformance labels differ from current W3C requirements; official criteria govern."
+    ],
+    "official_baselines": [
+      "wcag",
+      "focus-current"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 13,
+    "name": "Animation and motion design",
+    "lead": "jhey-tompkins",
+    "support": [
+      "sara-soueidan",
+      "harry-roberts"
+    ],
+    "acceptance": "Each motion has a purpose and usable fallback. Reduced motion, keyboard behavior, browser support and loading impact are checked. Core content never waits for decorative animation.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "harry-roberts",
+        "source_id": "sc52a0ad831a4db8d",
+        "url": "https://csswizardry.com/2022/03/optimising-largest-contentful-paint/",
+        "title": "Optimising Largest Contentful Paint – CSS Wizardry",
+        "work_id": "harry-roberts:harry-lcp",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      },
+      {
+        "slug": "jhey-tompkins",
+        "source_id": "s04c11e9d7ad1c27e",
+        "url": "https://www.smashingmagazine.com/2023/09/path-css-easing-linear-function/",
+        "title": "The Path To Awesome CSS Easing With The linear() Function — Smashing Magazine",
+        "work_id": "jhey-tompkins:jhey-easing",
+        "capture": "excerpt",
+        "source_page": "experts/jhey-tompkins.md"
+      },
+      {
+        "slug": "jhey-tompkins",
+        "source_id": "s33505c4cf98fc8d1",
+        "url": "https://css-tricks.com/the-power-and-fun-of-scope-with-css-custom-properties/",
+        "title": "The Power (and Fun) of Scope with CSS Custom Properties | CSS-Tricks",
+        "work_id": "jhey-tompkins:jhey-scoped-animation",
+        "capture": "excerpt",
+        "source_page": "experts/jhey-tompkins.md"
+      },
+      {
+        "slug": "jhey-tompkins",
+        "source_id": "sacb88059c406a546",
+        "url": "https://css-tricks.com/create-a-responsive-css-motion-path-sure-we-can/",
+        "title": "Create a Responsive CSS Motion Path? Sure We Can! | CSS-Tricks",
+        "work_id": "jhey-tompkins:jhey-responsive-path",
+        "capture": "excerpt",
+        "source_page": "experts/jhey-tompkins.md"
+      },
+      {
+        "slug": "jhey-tompkins",
+        "source_id": "s4644a3430cda8c87",
+        "url": "https://x.com/jh3yy/status/1740938761909731562",
+        "title": "Jhey Tompkins, public X teaching 2023-12-30",
+        "work_id": "jhey-tompkins:x:1740938761909731562",
+        "capture": "excerpt",
+        "source_page": "experts/jhey-tompkins.md"
+      },
+      {
+        "slug": "jhey-tompkins",
+        "source_id": "s0ca248cbadb2de64",
+        "url": "https://x.com/jh3yy/status/1732553845530566855",
+        "title": "Jhey Tompkins, public X teaching 2023-12-07",
+        "work_id": "jhey-tompkins:x:1732553845530566855",
+        "capture": "excerpt",
+        "source_page": "experts/jhey-tompkins.md"
+      }
+    ],
+    "remaining_questions": [
+      "Some embedded motion demos were unavailable. Static diagrams and root code teaching do not establish complete audiovisual review."
+    ],
+    "official_baselines": [
+      "wcag",
+      "reduced-motion"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 14,
+    "name": "Performance and image delivery",
+    "lead": "harry-roberts",
+    "support": [
+      "ahmad-shadeed",
+      "lee-robinson",
+      "julius-fedorovicius"
+    ],
+    "acceptance": "Critical content loads promptly with suitable image sizes, crop, delivery, fonts and resource budgets. Representative measurements record conditions and distinguish laboratory from field evidence.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "harry-roberts",
+        "source_id": "sc52a0ad831a4db8d",
+        "url": "https://csswizardry.com/2022/03/optimising-largest-contentful-paint/",
+        "title": "Optimising Largest Contentful Paint – CSS Wizardry",
+        "work_id": "harry-roberts:harry-lcp",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      },
+      {
+        "slug": "harry-roberts",
+        "source_id": "s5e2b2855a514b05e",
+        "url": "https://csswizardry.com/2026/08/web-perf-wednesday-005-rum-needs-more-than-a-percentile/",
+        "title": "Web-Perf Wednesday 005 – RUM Needs More Than a Percentile – CSS Wizardry",
+        "work_id": "harry-roberts:harry-rum-context",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      },
+      {
+        "slug": "harry-roberts",
+        "source_id": "sb693fc5b4ab7c394",
+        "url": "https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/",
+        "title": "The Three Cs: 🤝 Concatenate, 🗜️ Compress, 🗳️ Cache – CSS Wizardry",
+        "work_id": "harry-roberts:harry-delivery",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "s186b635a6ac6ed72",
+        "url": "https://leerob.com/css",
+        "title": "How I'm Writing CSS in 2024 | Lee Robinson",
+        "work_id": "lee-robinson:lee-css",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "julius-fedorovicius",
+        "source_id": "seba92086089f9748",
+        "url": "https://www.analyticsmania.com/post/google-tag-manager-impact-on-page-speed-and-how-to-improve/",
+        "title": "Google Tag Manager vs Page Speed: Impact & How to Improve",
+        "work_id": "julius-fedorovicius:julius-tag-cost",
+        "capture": "excerpt",
+        "source_page": "experts/julius-fedorovicius.md"
+      },
+      {
+        "slug": "harry-roberts",
+        "source_id": "s5439774dc87ba916",
+        "url": "https://x.com/csswizardry/status/1231949327322566657",
+        "title": "Harry Roberts, public X teaching 2020-02-24",
+        "work_id": "harry-roberts:x:1231949327322566657",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      }
+    ],
+    "remaining_questions": [
+      "Historical timings and lab measurements do not establish current field performance."
+    ],
+    "official_baselines": [
+      "web-vitals"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 15,
+    "name": "Technical SEO",
+    "lead": "aleyda-solis",
+    "support": [
+      "lee-robinson",
+      "marie-haynes"
+    ],
+    "acceptance": "Public pages return expected statuses and render useful content. Canonicals, internal links, robots controls, sitemap, redirects and applicable structured data are checked against current search guidance.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "marie-haynes",
+        "source_id": "se564f420bc6ab4d0",
+        "url": "https://www.mariehaynes.com/main-content/",
+        "title": "Google changed their helpful content guidelines to emphasize good \"Main Content\" - Marie Haynes",
+        "work_id": "marie-haynes:marie-main-content",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "s5141581ca6ff289f",
+        "url": "https://www.mariehaynes.com/crawled-currently-not-indexed/",
+        "title": "Why your pages are stuck in crawled-currently not indexed. And what to do about it. - Marie Haynes",
+        "work_id": "marie-haynes:marie-rendering",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s539ea60847270b35",
+        "url": "https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/",
+        "title": "Checklist step 4, public web rendering lines 61 to 63",
+        "work_id": "aleyda-solis:ai-search-framework-2026",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s96b81000b134e78e",
+        "url": "https://x.com/aleyda/status/2056063884914733528",
+        "title": "Aleyda Solis, public X teaching 2026-05-17",
+        "work_id": "aleyda-solis:x:2056063884914733528",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "s0aae6a181c26264f",
+        "url": "https://x.com/leerob/status/1777327479230783534",
+        "title": "Lee Robinson, public X teaching 2024-04-08",
+        "work_id": "lee-robinson:x:1777327479230783534",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      }
+    ],
+    "remaining_questions": [
+      "Actual robots controls, rendering, redirects and framework behavior require current checks."
+    ],
+    "official_baselines": [
+      "google-ai",
+      "google-seo",
+      "next-metadata"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 16,
+    "name": "Page content and search intent",
+    "lead": "andy-crestodina",
+    "support": [
+      "aleyda-solis",
+      "marie-haynes"
+    ],
+    "acceptance": "A page intent map covers actual services or products and customer questions. Pages provide original useful evidence and a relevant next action without bulk duplicate content.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s178fe2f11f651c6b",
+        "url": "https://www.orbitmedia.com/blog/content-ai-cant-make/",
+        "title": "2 Types of Content AI Can’t Create (And Why They Win) | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-original-input",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "s08fcd528c4e4d4b0",
+        "url": "https://www.mariehaynes.com/im-rethinking-blogging/",
+        "title": "I'm rethinking blogging - Marie Haynes",
+        "work_id": "marie-haynes:marie-helpful-blogging",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "se564f420bc6ab4d0",
+        "url": "https://www.mariehaynes.com/main-content/",
+        "title": "Google changed their helpful content guidelines to emphasize good \"Main Content\" - Marie Haynes",
+        "work_id": "marie-haynes:marie-main-content",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "s5141581ca6ff289f",
+        "url": "https://www.mariehaynes.com/crawled-currently-not-indexed/",
+        "title": "Why your pages are stuck in crawled-currently not indexed. And what to do about it. - Marie Haynes",
+        "work_id": "marie-haynes:marie-rendering",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s539ea60847270b35",
+        "url": "https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/",
+        "title": "Checklist step 4, public web rendering lines 61 to 63",
+        "work_id": "aleyda-solis:ai-search-framework-2026",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s460868c5b4640620",
+        "url": "https://x.com/aleyda/status/2058478805895807479",
+        "title": "Aleyda Solis, public X teaching 2026-05-24",
+        "work_id": "aleyda-solis:x:2058478805895807479",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "s44975d646cd4cbff",
+        "url": "https://x.com/Marie_Haynes/status/1694358955768545489",
+        "title": "Marie Haynes, public X teaching 2023-08-23",
+        "work_id": "marie-haynes:x:1694358955768545489",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      }
+    ],
+    "remaining_questions": [
+      "Search intent and original client experience must guide the page plan."
+    ],
+    "official_baselines": [
+      "google-seo"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 17,
+    "name": "Local SEO",
+    "lead": "joy-hawkins",
+    "support": [
+      "darren-shaw"
+    ],
+    "acceptance": "Eligible locations and service areas use verified business facts and relevant destination pages. Current business profile and review policies are checked. No fake locations or selective review gating.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "joy-hawkins",
+        "source_id": "s9b1703a1a865325d",
+        "url": "https://www.sterlingsky.ca/does-the-url-you-link-to-in-google-my-business-impact-ranking-in-the-local-pack/",
+        "title": "Does the URL You Link to in Google My Business Impact Ranking in the Local Pack? - Can the GMB Link Impact Local Pack Rankings?",
+        "work_id": "joy-hawkins:joy-relevant-url",
+        "capture": "excerpt",
+        "source_page": "experts/joy-hawkins.md"
+      },
+      {
+        "slug": "joy-hawkins",
+        "source_id": "s2c9408da65606d78",
+        "url": "https://www.sterlingsky.ca/review-gating-is-now-against-the-google-my-business-guidelines/",
+        "title": "Google Review Gating - What Is Google Review Gating Policy? - Risks of Review Gating Google",
+        "work_id": "joy-hawkins:joy-review-gating",
+        "capture": "excerpt",
+        "source_page": "experts/joy-hawkins.md"
+      },
+      {
+        "slug": "joy-hawkins",
+        "source_id": "s90a5bb2a5e834f0c",
+        "url": "https://www.sterlingsky.ca/interpret-google-business-profile-performance/",
+        "title": "Google Business Profile Performance Report: Metrics Explained",
+        "work_id": "joy-hawkins:joy-call-metric",
+        "capture": "excerpt",
+        "source_page": "experts/joy-hawkins.md"
+      },
+      {
+        "slug": "joy-hawkins",
+        "source_id": "sbc654202e799eef4",
+        "url": "https://x.com/JoyanneHawkins/status/1900955967879278679",
+        "title": "Joy Hawkins, public X teaching 2025-03-15",
+        "work_id": "joy-hawkins:x:1900955967879278679",
+        "capture": "excerpt",
+        "source_page": "experts/joy-hawkins.md"
+      },
+      {
+        "slug": "darren-shaw",
+        "source_id": "s2d9661fb9c7bdb13",
+        "url": "https://x.com/DarrenShaw_/status/1815400531025973432",
+        "title": "Treat reviews as one part of local visibility",
+        "work_id": "darren-shaw:x-conversation-1815400531025973432",
+        "capture": "excerpt",
+        "method_id": "x-local-search",
+        "method_status": "candidate",
+        "source_page": "experts/darren-shaw.md"
+      },
+      {
+        "slug": "darren-shaw",
+        "source_id": "s6f1e7e2c757f2340",
+        "url": "https://x.com/DarrenShaw_/status/1805617188747067819",
+        "title": "Show completed work through useful case studies",
+        "work_id": "darren-shaw:x-conversation-1805617188747067819",
+        "capture": "excerpt",
+        "method_id": "xh-case-studies",
+        "method_status": "candidate",
+        "source_page": "experts/darren-shaw.md"
+      }
+    ],
+    "remaining_questions": [
+      "Case studies are limited observations, not guaranteed ranking changes. Verify current profile policies."
+    ],
+    "official_baselines": [
+      "google-local",
+      "google-reviews"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 18,
+    "name": "AEO and AI discovery",
+    "lead": "aleyda-solis",
+    "support": [
+      "marie-haynes",
+      "andy-crestodina"
+    ],
+    "acceptance": "Important answers and business facts are accessible, explicit, consistent and supported. Relevant discovery checks record platform and date. Citations, visits and business outcomes remain distinct, with no visibility guarantee.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s178fe2f11f651c6b",
+        "url": "https://www.orbitmedia.com/blog/content-ai-cant-make/",
+        "title": "2 Types of Content AI Can’t Create (And Why They Win) | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-original-input",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "sd5583f00911e193c",
+        "url": "https://www.orbitmedia.com/blog/conversion-rates-ai-search/",
+        "title": "AI Traffic Conversion Rates: New Research from 97 B2B Websites and 29M visits | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-measured-conversions",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "s08fcd528c4e4d4b0",
+        "url": "https://www.mariehaynes.com/im-rethinking-blogging/",
+        "title": "I'm rethinking blogging - Marie Haynes",
+        "work_id": "marie-haynes:marie-helpful-blogging",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "marie-haynes",
+        "source_id": "se564f420bc6ab4d0",
+        "url": "https://www.mariehaynes.com/main-content/",
+        "title": "Google changed their helpful content guidelines to emphasize good \"Main Content\" - Marie Haynes",
+        "work_id": "marie-haynes:marie-main-content",
+        "capture": "excerpt",
+        "source_page": "experts/marie-haynes.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s539ea60847270b35",
+        "url": "https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/",
+        "title": "Checklist step 4, public web rendering lines 61 to 63",
+        "work_id": "aleyda-solis:ai-search-framework-2026",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s9985a8aeb65c0f8d",
+        "url": "https://www.aleydasolis.com/en/ai-search/a-3-layer-framework-to-measure-ai-presence-readiness-and-business-impact-redefining-metrics-for-the-ai-search-era/",
+        "title": "Principles before the three metric layers, public web rendering line 81",
+        "work_id": "aleyda-solis:ai-search-framework-2026",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s460868c5b4640620",
+        "url": "https://x.com/aleyda/status/2058478805895807479",
+        "title": "Aleyda Solis, public X teaching 2026-05-24",
+        "work_id": "aleyda-solis:x:2058478805895807479",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      },
+      {
+        "slug": "aleyda-solis",
+        "source_id": "s96b81000b134e78e",
+        "url": "https://x.com/aleyda/status/2056063884914733528",
+        "title": "Aleyda Solis, public X teaching 2026-05-17",
+        "work_id": "aleyda-solis:x:2056063884914733528",
+        "capture": "excerpt",
+        "source_page": "experts/aleyda-solis.md"
+      }
+    ],
+    "remaining_questions": [
+      "Expert interpretations of AI search are not confirmed algorithm rules or inclusion guarantees."
+    ],
+    "official_baselines": [
+      "google-ai"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 19,
+    "name": "Trust and proof",
+    "lead": "andy-crestodina",
+    "support": [
+      "joanna-wiebe",
+      "peep-laja"
+    ],
+    "acceptance": "Approved proof is placed beside the claim it supports and works on important entry pages. Testimonials, certifications, inventory and project evidence are genuine and current.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "s83eee152fefc3ead",
+        "url": "https://copyhackers.com/2016/06/copywriting-principles-sweatblock/",
+        "title": "3 copywriting principles (for 2x revenue)",
+        "work_id": "joanna-wiebe:joanna-hierarchy",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "joanna-wiebe",
+        "source_id": "se2e404253c27b33c",
+        "url": "https://copyhackers.com/a-super-speedy-formula-to-find-voc-fast/",
+        "title": "A super-speedy formula to find VoC fast | Write like a human | Convert like a badass",
+        "work_id": "joanna-wiebe:joanna-voc",
+        "capture": "excerpt",
+        "source_page": "experts/joanna-wiebe.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s4edf498eea9ea129",
+        "url": "https://www.orbitmedia.com/blog/increase-conversion-rate/",
+        "title": "Lead Generation 101: How to Increase Conversion Rates on Your B2B Website",
+        "work_id": "andy-crestodina:andy-clarity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "se2eb75d9f2a07137",
+        "url": "https://www.orbitmedia.com/blog/specificity-webpages/",
+        "title": "The One Prompt That Improves Any Page …by Checking for 5 Types of Specificity | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-specificity",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "andy-crestodina",
+        "source_id": "s178fe2f11f651c6b",
+        "url": "https://www.orbitmedia.com/blog/content-ai-cant-make/",
+        "title": "2 Types of Content AI Can’t Create (And Why They Win) | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-original-input",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "s574be30c5d23de3e",
+        "url": "https://wynter.com/post/how-to-compete-and-win-on-messaging",
+        "title": "How to compete and win on messaging",
+        "work_id": "peep-laja:messaging-2025",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "sb9035c5167b0a077",
+        "url": "https://wynter.com/post/8-lessons-learned-optimizing-b2b-saas-pricing",
+        "title": "8 lessons learned optimizing B2B SaaS pricing",
+        "work_id": "peep-laja:pricing-communication",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "s6e58a2b7d80ea829",
+        "url": "https://x.com/peeplaja/status/2027394828607054202",
+        "title": "Check comprehension before expanding acquisition channels",
+        "work_id": "peep-laja:x-conversation-2027394828607054202",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "sb2ec845aeeeac947",
+        "url": "https://x.com/peeplaja/status/2092595763045937252",
+        "title": "Let buyer evidence change the message",
+        "work_id": "peep-laja:x-conversation-2092595763045937252",
+        "capture": "excerpt",
+        "method_id": "respond-to-evidence",
+        "method_status": "candidate",
+        "source_page": "experts/peep-laja.md"
+      }
+    ],
+    "remaining_questions": [
+      "Proof, permissions and claims must come from the actual client."
+    ],
+    "official_baselines": [
+      "google-local",
+      "google-reviews"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 20,
+    "name": "Analytics and conversion improvement",
+    "lead": "julius-fedorovicius",
+    "support": [
+      "andy-crestodina",
+      "peep-laja"
+    ],
+    "acceptance": "A measurement plan defines primary outcomes, supporting events, parameters, consent behavior and ownership. Both positive and negative event cases are tested at the receiving analytics destination.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "andy-crestodina",
+        "source_id": "sd5583f00911e193c",
+        "url": "https://www.orbitmedia.com/blog/conversion-rates-ai-search/",
+        "title": "AI Traffic Conversion Rates: New Research from 97 B2B Websites and 29M visits | Orbit Media Studios",
+        "work_id": "andy-crestodina:andy-measured-conversions",
+        "capture": "excerpt",
+        "source_page": "experts/andy-crestodina.md"
+      },
+      {
+        "slug": "julius-fedorovicius",
+        "source_id": "s8698a1a80859e955",
+        "url": "https://www.analyticsmania.com/post/track-clicks-with-google-analytics-4-and-gtm/",
+        "title": "How to Track Clicks with Google Analytics 4 (2026)",
+        "work_id": "julius-fedorovicius:julius-click-test",
+        "capture": "excerpt",
+        "source_page": "experts/julius-fedorovicius.md"
+      },
+      {
+        "slug": "julius-fedorovicius",
+        "source_id": "sb994fd5ed966d475",
+        "url": "https://www.analyticsmania.com/post/track-outbound-links-with-google-tag-manager/",
+        "title": "Track Outbound Links with Google Tag Manager and Google Analytics",
+        "work_id": "julius-fedorovicius:julius-outbound-test",
+        "capture": "excerpt",
+        "source_page": "experts/julius-fedorovicius.md"
+      },
+      {
+        "slug": "julius-fedorovicius",
+        "source_id": "s9c0cec3d38b80bcc",
+        "url": "https://www.analyticsmania.com/post/a-tag-read-consent-state-before-a-default-was-set/",
+        "title": "[Solved] A tag read consent state before a default was set. What to do about it? - Analytics Mania",
+        "work_id": "julius-fedorovicius:julius-consent",
+        "capture": "excerpt",
+        "source_page": "experts/julius-fedorovicius.md"
+      },
+      {
+        "slug": "julius-fedorovicius",
+        "source_id": "seba92086089f9748",
+        "url": "https://www.analyticsmania.com/post/google-tag-manager-impact-on-page-speed-and-how-to-improve/",
+        "title": "Google Tag Manager vs Page Speed: Impact & How to Improve",
+        "work_id": "julius-fedorovicius:julius-tag-cost",
+        "capture": "excerpt",
+        "source_page": "experts/julius-fedorovicius.md"
+      },
+      {
+        "slug": "julius-fedorovicius",
+        "source_id": "sb20f09628bda3f7b",
+        "url": "https://x.com/fedorovicius/status/1485978902451392513",
+        "title": "Julius Fedorovicius, public X teaching 2022-01-25",
+        "work_id": "julius-fedorovicius:x:1485978902451392513",
+        "capture": "excerpt",
+        "source_page": "experts/julius-fedorovicius.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "s574be30c5d23de3e",
+        "url": "https://wynter.com/post/how-to-compete-and-win-on-messaging",
+        "title": "How to compete and win on messaging",
+        "work_id": "peep-laja:messaging-2025",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "sb9035c5167b0a077",
+        "url": "https://wynter.com/post/8-lessons-learned-optimizing-b2b-saas-pricing",
+        "title": "8 lessons learned optimizing B2B SaaS pricing",
+        "work_id": "peep-laja:pricing-communication",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "s6e58a2b7d80ea829",
+        "url": "https://x.com/peeplaja/status/2027394828607054202",
+        "title": "Check comprehension before expanding acquisition channels",
+        "work_id": "peep-laja:x-conversation-2027394828607054202",
+        "capture": "excerpt",
+        "method_id": "message-testing",
+        "method_status": "supported",
+        "source_page": "experts/peep-laja.md"
+      },
+      {
+        "slug": "peep-laja",
+        "source_id": "sb2ec845aeeeac947",
+        "url": "https://x.com/peeplaja/status/2092595763045937252",
+        "title": "Let buyer evidence change the message",
+        "work_id": "peep-laja:x-conversation-2092595763045937252",
+        "capture": "excerpt",
+        "method_id": "respond-to-evidence",
+        "method_status": "candidate",
+        "source_page": "experts/peep-laja.md"
+      }
+    ],
+    "remaining_questions": [
+      "Measurement requires the approved account, consent setup and actual downstream outcomes."
+    ],
+    "official_baselines": [],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 21,
+    "name": "Integrations and content management",
+    "lead": "knut-melvaer",
+    "support": [
+      "lee-robinson",
+      "kurt-elster"
+    ],
+    "acceptance": "The data model and editorial workflow fit the business and approved platform. Each scoped integration has ownership, authentication, validation, failure handling, preview and a meaningful end to end test.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "lee-robinson",
+        "source_id": "s186b635a6ac6ed72",
+        "url": "https://leerob.com/css",
+        "title": "How I'm Writing CSS in 2024 | Lee Robinson",
+        "work_id": "lee-robinson:lee-css",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "sdb2fcb0a4124c143",
+        "url": "https://leerob.com/agents",
+        "title": "Coding Agents & Complexity Budgets | Lee Robinson",
+        "work_id": "lee-robinson:lee-complexity",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s8b6817753be5e04d",
+        "url": "https://www.sanity.io/blog/why-content-modeling-early-unlocks-value",
+        "title": "Why content modeling early unlocks value | Sanity",
+        "work_id": "knut-melvaer:knut-model-early",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s18386735bc4f7327",
+        "url": "https://www.knut.fyi/blog/2026-06-04/the-10-laws-of-developer-experience-for-content-management-systems",
+        "title": "The 10 laws of developer experience for content management systems | Knut Melvær",
+        "work_id": "knut-melvaer:knut-domain",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "se451d12cd2fc904d",
+        "url": "https://www.sanity.io/guides/portable-text-internal-and-external-links",
+        "title": "Internal and external links with Portable Text | Sanity.io guide",
+        "work_id": "knut-melvaer:knut-internal-links",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "sf41cbf74a19d96d5",
+        "url": "https://css-tricks.com/five-interesting-ways-to-use-sanity-io-for-image-art-direction/",
+        "title": "Five interesting ways to use Sanity.io for image art direction | CSS-Tricks",
+        "work_id": "knut-melvaer:knut-image-direction",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s6cf0aeafa5643fda",
+        "url": "https://x.com/kmelve/status/1577431063710040064",
+        "title": "Knut Melvær, public X teaching 2022-10-04",
+        "work_id": "knut-melvaer:x:1577431063710040064",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "kurt-elster",
+        "source_id": "s8c081f652f2582b5",
+        "url": "https://x.com/kurtinc/status/2011138550977155415",
+        "title": "Kurt Elster, public X teaching 2026-01-13",
+        "work_id": "kurt-elster:x:2011138550977155415",
+        "capture": "excerpt",
+        "source_page": "experts/kurt-elster.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "s2149bd7bff97405f",
+        "url": "https://x.com/leerob/status/1835777934361084316",
+        "title": "Lee Robinson, public X teaching 2024-09-16",
+        "work_id": "lee-robinson:x:1835777934361084316",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      }
+    ],
+    "remaining_questions": [
+      "The examples do not mandate Sanity, Supabase or a replacement CMS. Current platform integration contracts are required."
+    ],
+    "official_baselines": [
+      "owasp-authorization",
+      "shopify-product"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 22,
+    "name": "Security, privacy, and reliability",
+    "lead": "troy-hunt",
+    "support": [
+      "lee-robinson"
+    ],
+    "acceptance": "The actual surface is reviewed for exposed secrets, authorization, unnecessary personal data, input handling and failure modes. Current platform guidance and applicable policy decisions inform the checks.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "troy-hunt",
+        "source_id": "s64d3fc2743e78c6c",
+        "url": "https://www.troyhunt.com/passkeys-for-normal-people/",
+        "title": "Troy Hunt: Passkeys for Normal People",
+        "work_id": "troy-hunt:troy-phishing",
+        "capture": "excerpt",
+        "source_page": "experts/troy-hunt.md"
+      },
+      {
+        "slug": "troy-hunt",
+        "source_id": "s48ce30dbf6159851",
+        "url": "https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/",
+        "title": "Troy Hunt: How Spoutible’s Leaky API Spurted out a Deluge of Personal Data",
+        "work_id": "troy-hunt:troy-api-data",
+        "capture": "excerpt",
+        "source_page": "experts/troy-hunt.md"
+      },
+      {
+        "slug": "troy-hunt",
+        "source_id": "s83aabbacf1612ec6",
+        "url": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/",
+        "title": "Troy Hunt: Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+        "work_id": "troy-hunt:troy-privacy",
+        "capture": "excerpt",
+        "source_page": "experts/troy-hunt.md"
+      },
+      {
+        "slug": "troy-hunt",
+        "source_id": "s1f4f6c949c9511a7",
+        "url": "https://x.com/troyhunt/status/1919304532280201558",
+        "title": "Troy Hunt, public X teaching 2025-05-05",
+        "work_id": "troy-hunt:troy-phishing",
+        "capture": "excerpt",
+        "source_page": "experts/troy-hunt.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "s2149bd7bff97405f",
+        "url": "https://x.com/leerob/status/1835777934361084316",
+        "title": "Lee Robinson, public X teaching 2024-09-16",
+        "work_id": "lee-robinson:x:1835777934361084316",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      }
+    ],
+    "remaining_questions": [
+      "This is not a full security assessment or legal privacy opinion. Threat and data checks must match the actual site."
+    ],
+    "official_baselines": [
+      "owasp-authorization"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 23,
+    "name": "Browser testing and quality review",
+    "lead": "kent-c-dodds",
+    "support": [
+      "sara-soueidan",
+      "harry-roberts"
+    ],
+    "acceptance": "Real critical journeys pass in the relevant browser and size matrix, including error and empty states. Screenshots, outcomes and project checks are recorded, with untested environments stated.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s5cdb5fb23501da9f",
+        "url": "https://www.sarasoueidan.com/blog/focus-indicators/",
+        "title": "A guide to designing accessible, WCAG-conformant focus indicators",
+        "work_id": "sara-soueidan:sara-focus",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "sad6aa6cc87f21425",
+        "url": "https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
+        "title": "Accessible notifications with ARIA Live Regions (Part 1)",
+        "work_id": "sara-soueidan:sara-status",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "harry-roberts",
+        "source_id": "s5e2b2855a514b05e",
+        "url": "https://csswizardry.com/2026/08/web-perf-wednesday-005-rum-needs-more-than-a-percentile/",
+        "title": "Web-Perf Wednesday 005 – RUM Needs More Than a Percentile – CSS Wizardry",
+        "work_id": "harry-roberts:harry-rum-context",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "s0de0e8685cc546bd",
+        "url": "https://kentcdodds.com/blog/how-to-know-what-to-test",
+        "title": "How to know what to test",
+        "work_id": "kent-c-dodds:kent-user-cases",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "sd89bfdbf6acf3aa3",
+        "url": "https://kentcdodds.com/blog/common-mistakes-with-react-testing-library",
+        "title": "Common mistakes with React Testing Library",
+        "work_id": "kent-c-dodds:kent-accessible-queries",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "s4c7409670005af9e",
+        "url": "https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project",
+        "title": "How to add testing to an existing project",
+        "work_id": "kent-c-dodds:kent-existing",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "s5ebf68dd8bb3dd0e",
+        "url": "https://kentcdodds.com/blog/make-your-test-fail",
+        "title": "Make Your Test Fail",
+        "work_id": "kent-c-dodds:kent-negative-control",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "sara-soueidan",
+        "source_id": "s025d9dd233860e9b",
+        "url": "https://x.com/SaraSoueidan/status/1799089082686902680",
+        "title": "Sara Soueidan, public X teaching 2024-06-07",
+        "work_id": "sara-soueidan:x:1799089082686902680",
+        "capture": "excerpt",
+        "source_page": "experts/sara-soueidan.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "s14de77a52dd22756",
+        "url": "https://x.com/kentcdodds/status/980276908217663493",
+        "title": "Kent C. Dodds, public X teaching 2018-04-01",
+        "work_id": "kent-c-dodds:x:980276908217663493",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "harry-roberts",
+        "source_id": "s5439774dc87ba916",
+        "url": "https://x.com/csswizardry/status/1231949327322566657",
+        "title": "Harry Roberts, public X teaching 2020-02-24",
+        "work_id": "harry-roberts:x:1231949327322566657",
+        "capture": "excerpt",
+        "source_page": "experts/harry-roberts.md"
+      }
+    ],
+    "remaining_questions": [
+      "No client website or browser matrix was tested in this research edition."
+    ],
+    "official_baselines": [
+      "wcag",
+      "web-vitals",
+      "owasp-authorization",
+      "focus-current"
+    ],
+    "research_date": "2026-10-06"
+  },
+  {
+    "id": 24,
+    "name": "Launch, handoff, and maintenance",
+    "lead": "lee-robinson",
+    "support": [
+      "kent-c-dodds",
+      "knut-melvaer"
+    ],
+    "acceptance": "Launch checks cover the authorized environment, domains, routes, forms, assets, data and recovery. Handoff identifies ownership, editing instructions, credentials handling, backups and maintenance obligations.",
+    "research_status": "researched_with_gaps",
+    "evidence": [
+      {
+        "slug": "lee-robinson",
+        "source_id": "s186b635a6ac6ed72",
+        "url": "https://leerob.com/css",
+        "title": "How I'm Writing CSS in 2024 | Lee Robinson",
+        "work_id": "lee-robinson:lee-css",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "sdb2fcb0a4124c143",
+        "url": "https://leerob.com/agents",
+        "title": "Coding Agents & Complexity Budgets | Lee Robinson",
+        "work_id": "lee-robinson:lee-complexity",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "se451d12cd2fc904d",
+        "url": "https://www.sanity.io/guides/portable-text-internal-and-external-links",
+        "title": "Internal and external links with Portable Text | Sanity.io guide",
+        "work_id": "knut-melvaer:knut-internal-links",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "s0de0e8685cc546bd",
+        "url": "https://kentcdodds.com/blog/how-to-know-what-to-test",
+        "title": "How to know what to test",
+        "work_id": "kent-c-dodds:kent-user-cases",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "kent-c-dodds",
+        "source_id": "s4c7409670005af9e",
+        "url": "https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project",
+        "title": "How to add testing to an existing project",
+        "work_id": "kent-c-dodds:kent-existing",
+        "capture": "excerpt",
+        "source_page": "experts/kent-c-dodds.md"
+      },
+      {
+        "slug": "knut-melvaer",
+        "source_id": "s6cf0aeafa5643fda",
+        "url": "https://x.com/kmelve/status/1577431063710040064",
+        "title": "Knut Melvær, public X teaching 2022-10-04",
+        "work_id": "knut-melvaer:x:1577431063710040064",
+        "capture": "excerpt",
+        "source_page": "experts/knut-melvaer.md"
+      },
+      {
+        "slug": "lee-robinson",
+        "source_id": "s0aae6a181c26264f",
+        "url": "https://x.com/leerob/status/1777327479230783534",
+        "title": "Lee Robinson, public X teaching 2024-04-08",
+        "work_id": "lee-robinson:x:1777327479230783534",
+        "capture": "excerpt",
+        "source_page": "experts/lee-robinson.md"
+      }
+    ],
+    "remaining_questions": [
+      "Actual deployment, ownership, backup restoration and maintenance depend on the client environment."
+    ],
+    "official_baselines": [
+      "next-metadata"
+    ],
+    "research_date": "2026-10-06"
+  }
+]

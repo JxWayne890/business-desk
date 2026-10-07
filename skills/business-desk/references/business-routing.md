@@ -1,33 +1,120 @@
 # Route by the work
 
-Select one lead reference. Add another when its specific contribution is needed. An explicit user choice takes precedence. These references inform judgment; actual business records supply facts.
+Select a relevant lead reference and add support only when its contribution is needed. Use the actual business facts and approved scope. Read the selected brief before attributing methods. These roles are research references, not instructions to spawn agents or contact people.
 
-| Job | Lead reference | Useful support |
-| :--- | :--- | :--- |
-| Website discovery and customer journey | [Paul Boag](experts/paul-boag.md) | Charli Marie for content |
-| Website brand and marketing design | [Charli Marie](experts/charli-marie.md) | Erik Kennedy for visual expression |
-| Typography, spacing, visual hierarchy | [Steve Schoger](experts/steve-schoger.md) | Adham Dannaway for controls |
-| Distinctive landing pages and interaction | [Erik Kennedy](experts/erik-kennedy.md) | Charli Marie for brand |
-| Search, filters, comparison, catalog choices | [Vitaly Friedman](experts/vitaly-friedman.md) | Paul Boag for customer tasks |
-| Forms and practical UI details | [Adham Dannaway](experts/adham-dannaway.md) | Steve Schoger for hierarchy |
-| Responsive layout and semantic structure | [Jen Simmons](experts/jen-simmons.md) | Current platform documentation |
-| Social structure, openings, and editing | [Dickie Bush](experts/dickie-bush.md) | Dan Koe for personal voice |
-| Personal ideas and original voice | [Dan Koe](experts/dan-koe.md) | Dickie Bush for editing |
-| Business content and adaptation | [Justin Welsh](experts/justin-welsh.md) | Relevant business reference |
-| Prospecting, discovery, and follow up | [Jeb Blount](experts/jeb-blount.md) | Relevant service reference |
-| Service scope, packages, and client fit | [David C. Baker](experts/david-c-baker.md) | Peep Laja for positioning |
-| Differentiation and positioning | [Peep Laja](experts/peep-laja.md) | David C. Baker for boundaries |
-| Local search visibility | [Darren Shaw](experts/darren-shaw.md) | Website workflow for implementation |
-| Leadership priorities and accountability | [Verne Harnish](experts/verne-harnish.md) | Relevant functional reference |
-| Cash visibility and owner dependence | [Mike Michalowicz](experts/mike-michalowicz.md) | Actual financial records |
-| Software offers and business validation | [Rob Walling](experts/rob-walling.md) | Rob Fitzpatrick for discovery |
-| Customer interviews and assumptions | [Rob Fitzpatrick](experts/rob-fitzpatrick.md) | Rob Walling for business model |
-| AI tool reliability and evaluation | [Simon Willison](experts/simon-willison.md) | Current official documentation |
-| AI learning and model fundamentals | [Andrej Karpathy](experts/andrej-karpathy.md) | Simon Willison for tool behavior |
-| Offer and acquisition experiments | [Alex Hormozi](experts/alex-hormozi.md) | Jeb Blount for sales |
+For a complete website, assess the [24 area workflow](guides/website-creation.md). For cold email or reply diagnosis, start with the [outreach workflow](cold-outreach/workflow.md), which reconciles the seven outreach contributors. Social writing and image work retain their respective guides.
 
-Supplemental imagery references: [Janis Ozolins](experts/janis-ozolins.md) for explaining ideas, [Jack Butcher](experts/jack-butcher.md) for visual systems, [Chris Do](experts/chris-do.md) for layout critique, and [Drew Brucker](experts/drew-brucker.md) for AI image direction.
+## Business and sales
 
-Read the selected brief before attributing a method. Several libraries have only candidate methods. Use their actual coverage rather than assuming equal depth.
+Scope services, shape offers, prepare sales conversations, and review business decisions.
 
-For an unfamiliar task, state the gap and use the relevant project workflow. Do not force an expert match. Selecting a business role does not connect a CRM, grant account access, or authorize messages or record changes. Pricing and financial decisions require current business inputs; these libraries do not establish tax or legal treatment.
+| Job or specialty | Reference |
+| :--- | :--- |
+| Prospecting and sales conversations | [Jeb Blount](experts/jeb-blount.md) |
+| Running an expertise based service business | [David C. Baker](experts/david-c-baker.md) |
+| Positioning, differentiation, and buyer tested messaging | [Peep Laja](experts/peep-laja.md) |
+| Leadership accountability, priorities, and management meeting routines | [Verne Harnish](experts/verne-harnish.md) |
+| Cash visibility and reducing owner dependence | [Mike Michalowicz](experts/mike-michalowicz.md) |
+| Growing a software business without relying on outside funding | [Rob Walling](experts/rob-walling.md) |
+| Customer interviews, problem discovery, and product validation | [Rob Fitzpatrick](experts/rob-fitzpatrick.md) |
+| Offer design and lead generation experiments | [Alex Hormozi](experts/alex-hormozi.md) |
+
+## AI and software judgment
+
+Evaluate AI tools, understand model behavior, and plan reliable AI features.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Applied AI engineering and agent reliability | [Simon Willison](experts/simon-willison.md) |
+| AI learning and careful implementation | [Andrej Karpathy](experts/andrej-karpathy.md) |
+
+## Social writing
+
+Develop ideas and adapt useful posts to the audience, platform, and author voice.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Social writing, personal voice, and idea development | [Dan Koe](experts/dan-koe.md) |
+| Social writing, formatting, editing, and consistent publishing | [Dickie Bush](experts/dickie-bush.md) |
+| Business social content, LinkedIn writing, and distribution systems | [Justin Welsh](experts/justin-welsh.md) |
+
+## Web and interface design
+
+Plan visual direction, layouts, forms, responsive behavior, and accessible interfaces.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Visual hierarchy, spacing, typography, and professional UI polish | [Steve Schoger](experts/steve-schoger.md) |
+| Brand and marketing design, content structure, and creative direction | [Charli Marie](experts/charli-marie.md) |
+| Distinctive landing pages, visual design, and intuitive interaction | [Erik Kennedy](experts/erik-kennedy.md) |
+| Practical interface design, accessible components, and design systems | [Adham Dannaway](experts/adham-dannaway.md) |
+| Context specific interaction patterns, search, filters, comparison, and forms | [Vitaly Friedman](experts/vitaly-friedman.md) |
+| Content driven responsive layouts and modern CSS layout design | [Jen Simmons](experts/jen-simmons.md) |
+| Responsive layouts and defensive CSS | [Ahmad Shadeed](experts/ahmad-shadeed.md) |
+| Forms, task completion, and accessible interaction | [Adam Silver](experts/adam-silver.md) |
+| Inclusive web interface design and accessibility | [Sara Soueidan](experts/sara-soueidan.md) |
+
+## Website content and commerce
+
+Map customer journeys, write conversion copy, structure content, and plan Shopify experiences.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Client discovery, customer journeys, business needs, and conversion strategy | [Paul Boag](experts/paul-boag.md) |
+| Conversion copywriting and website messaging | [Joanna Wiebe](experts/joanna-wiebe.md) |
+| Website content, proof, analytics, and conversion | [Andy Crestodina](experts/andy-crestodina.md) |
+| Structured content, CMS models, and editorial workflows | [Knut Melvær](experts/knut-melvaer.md) |
+| Shopify customer journeys and commerce design | [Kurt Elster](experts/kurt-elster.md) |
+
+## Search visibility
+
+Review technical SEO, local visibility, useful content, and AI discovery readiness.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Local search visibility | [Darren Shaw](experts/darren-shaw.md) |
+| Local SEO, service pages, and verified business visibility | [Joy Hawkins](experts/joy-hawkins.md) |
+| Technical SEO and search strategy | [Aleyda Solis](experts/aleyda-solis.md) |
+| AI search visibility and helpful content | [Marie Haynes](experts/marie-haynes.md) |
+
+## Engineering, analytics, and reliability
+
+Plan implementation, measure real actions, inspect performance, and test important user journeys.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Social metadata, website engineering, deployment, and maintainability | [Lee Robinson](experts/lee-robinson.md) |
+| Web performance, resource loading, and measurement | [Harry Roberts](experts/harry-roberts.md) |
+| Analytics implementation, events, and measurement quality | [Julius Fedorovicius](experts/julius-fedorovicius.md) |
+| Web security, privacy practices, and reliable operation | [Troy Hunt](experts/troy-hunt.md) |
+| User focused website testing and maintainable implementation | [Kent C. Dodds](experts/kent-c-dodds.md) |
+
+## Images and motion
+
+Develop image briefs, useful visual explanations, social previews, and purposeful interface motion.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Web animation, interactive effects, and progressive enhancement | [Jhey Tompkins](experts/jhey-tompkins.md) |
+| AI image art direction and website hero imagery | [Drew Brucker](experts/drew-brucker.md) |
+| Visual idea clarity and website social preview design | [Janis Ozolins](experts/janis-ozolins.md) |
+| Visual systems and service diagrams | [Jack Butcher](experts/jack-butcher.md) (supplemental) |
+| Typography and layout critique | [Chris Do](experts/chris-do.md) (supplemental) |
+
+## Cold outreach
+
+Select suitable prospects, clarify an offer, draft emails and follow ups, handle replies, and diagnose campaigns.
+
+| Job or specialty | Reference |
+| :--- | :--- |
+| Clarity, relevance, restrained sequences and campaign experiments | [Will Allred](experts/will-allred.md) |
+| Buyer language and low pressure cold email conversations | [Josh Braun](experts/josh-braun.md) |
+| Buyer priorities, segmentation and useful meeting offers | [Jason Bay](experts/jason-bay.md) |
+| Relevant premises, respectful messaging and diagnostic questions | [Becc Holland](experts/becc-holland.md) |
+| Offer clarity, relevant proof and contextual personalization | [Alex Berman](experts/alex-berman.md) |
+| Outcome based offers, credible proof and bounded deal terms | [Daniel Fazio](experts/daniel-fazio.md) |
+| Offer relevance, proof and careful campaign diagnosis | [Nick Abraham](experts/nick-abraham.md) |
+
+## Apply the evidence
+
+Coverage is partial. Preserve candidate methods and authorship limits. A platform requirement needs current official documentation. An archive count does not establish that every post was read or support a promise about business results.

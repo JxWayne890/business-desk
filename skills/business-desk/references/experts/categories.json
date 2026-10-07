@@ -1,0 +1,113 @@
+[
+  {
+    "id": "business",
+    "name": "Business and sales",
+    "helps_with": "Scope services, shape offers, prepare sales conversations, and review business decisions.",
+    "experts": [
+      "jeb-blount",
+      "david-c-baker",
+      "peep-laja",
+      "verne-harnish",
+      "mike-michalowicz",
+      "rob-walling",
+      "rob-fitzpatrick",
+      "alex-hormozi"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI and software judgment",
+    "helps_with": "Evaluate AI tools, understand model behavior, and plan reliable AI features.",
+    "experts": [
+      "simon-willison",
+      "andrej-karpathy"
+    ]
+  },
+  {
+    "id": "social",
+    "name": "Social writing",
+    "helps_with": "Develop ideas and adapt useful posts to the audience, platform, and author voice.",
+    "experts": [
+      "dan-koe",
+      "dickie-bush",
+      "justin-welsh"
+    ]
+  },
+  {
+    "id": "design",
+    "name": "Web and interface design",
+    "helps_with": "Plan visual direction, layouts, forms, responsive behavior, and accessible interfaces.",
+    "experts": [
+      "steve-schoger",
+      "charli-marie",
+      "erik-kennedy",
+      "adham-dannaway",
+      "vitaly-friedman",
+      "jen-simmons",
+      "ahmad-shadeed",
+      "adam-silver",
+      "sara-soueidan"
+    ]
+  },
+  {
+    "id": "content",
+    "name": "Website content and commerce",
+    "helps_with": "Map customer journeys, write conversion copy, structure content, and plan Shopify experiences.",
+    "experts": [
+      "paul-boag",
+      "joanna-wiebe",
+      "andy-crestodina",
+      "knut-melvaer",
+      "kurt-elster"
+    ]
+  },
+  {
+    "id": "search",
+    "name": "Search visibility",
+    "helps_with": "Review technical SEO, local visibility, useful content, and AI discovery readiness.",
+    "experts": [
+      "darren-shaw",
+      "joy-hawkins",
+      "aleyda-solis",
+      "marie-haynes"
+    ]
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering, analytics, and reliability",
+    "helps_with": "Plan implementation, measure real actions, inspect performance, and test important user journeys.",
+    "experts": [
+      "lee-robinson",
+      "harry-roberts",
+      "julius-fedorovicius",
+      "troy-hunt",
+      "kent-c-dodds"
+    ]
+  },
+  {
+    "id": "imagery",
+    "name": "Images and motion",
+    "helps_with": "Develop image briefs, useful visual explanations, social previews, and purposeful interface motion.",
+    "experts": [
+      "jhey-tompkins",
+      "drew-brucker",
+      "janis-ozolins",
+      "jack-butcher",
+      "chris-do"
+    ]
+  },
+  {
+    "id": "outreach",
+    "name": "Cold outreach",
+    "helps_with": "Select suitable prospects, clarify an offer, draft emails and follow ups, handle replies, and diagnose campaigns.",
+    "experts": [
+      "will-allred",
+      "josh-braun",
+      "jason-bay",
+      "becc-holland",
+      "alex-berman",
+      "daniel-fazio",
+      "nick-abraham"
+    ]
+  }
+]

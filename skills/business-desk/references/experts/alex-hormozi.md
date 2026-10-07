@@ -2,13 +2,13 @@
 
 Offer design and lead generation experiments
 
-This reference contains original research summaries and links to public work. It does not represent the person or their endorsement.
+This reference contains original research summaries and links to public work. It does not represent the person or imply endorsement.
 
 ## Coverage
 
-Research compiled October 2026. Source status: ready with gaps. Original text snapshots and bulk social archives are not distributed. Method labels below describe the original research, not a fresh audit of the public sources. Open the cited source before making a precise attribution or extending a method beyond this summary.
+Research snapshot: October 6, 2026. Archived X posts: 4,378. Distinct X posts cited below: 4. Other source entries: 1. Total source entries: 5.
 
-Sources summarized: 5. Repeated methods: 1. Candidates: 2.
+Archived posts are research inputs, not a fully reviewed curriculum, and are not included in this package. Cited entries may cover written excerpts, identity context, or limited visual observations. The source directory identifies the capture type. Method labels describe the original research; they are not a fresh audit or a guarantee of business results.
 
 * Deleted, protected, withheld, or unindexed posts may be unavailable. Query exhaustion is not proof of a complete archive.
 * Linked videos, images, external articles, and thread parents were not ingested unless specifically identified as reviewed.
@@ -43,54 +43,12 @@ State the real scope, capacity, and deliverables plainly, then track whether the
 
 * [Align sales promises with delivery capacity](https://x.com/AlexHormozi/status/1606268429660471296). Author: Alex Hormozi. Locator: X post 1606268429660471296, authored post text, published 2022-12-23. State the real scope, capacity, and deliverables plainly, then track whether the service meets or exceeds those commitments. Avoid making promises that the delivery team cannot fulfill.
 
-## Source summaries
+## Source directory
 
-### X identity and attribution check
+Open the original source before precise attribution or extending a method. Multiple entries may refer to the same underlying work. Company and joint authorship remain attributed to the source authors.
 
-[Alex Hormozi](https://linktr.ee/ahormozi)
-
-His official link directory links AlexHormozi. The API profile matches Acquisition.com.
-
-Locator: Official public link and API profile matched on October 5, 2026
-
-Original capture: research_notes. Underlying work: `alex-hormozi:x-identity-2026-10-05`.
-
-### Tie AI spending to business returns
-
-[Alex Hormozi](https://x.com/AlexHormozi/status/2105446365119525013)
-
-State the expected business benefit of an AI workflow and measure whether the spend produces that benefit.
-
-Locator: X post 2105446365119525013, authored post text, published 2026-09-30
-
-Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-2105446365119525013`.
-
-### Compare advertising cost with customer economics
-
-[Alex Hormozi](https://x.com/AlexHormozi/status/1607455631908442113)
-
-Compare acquisition cost with contribution after delivery costs, including the observed retention period.
-
-Locator: X post 1607455631908442113, authored post text, published 2022-12-26
-
-Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-1607455631908442113`.
-
-### Improve an existing acquisition channel before expanding
-
-[Alex Hormozi](https://x.com/AlexHormozi/status/1474058458806861832)
-
-Evaluate whether the existing acquisition channel can improve through more consistent activity or better execution before introducing a new channel and another operator. Measure results against cost and capacity.
-
-Locator: X post 1474058458806861832, authored post text, published 2021-12-23
-
-Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-1474058458806861832`.
-
-### Align sales promises with delivery capacity
-
-[Alex Hormozi](https://x.com/AlexHormozi/status/1606268429660471296)
-
-State the real scope, capacity, and deliverables plainly, then track whether the service meets or exceeds those commitments. Avoid making promises that the delivery team cannot fulfill.
-
-Locator: X post 1606268429660471296, authored post text, published 2022-12-23
-
-Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-1606268429660471296`.
+* [X identity and attribution check](https://linktr.ee/ahormozi). Author: Alex Hormozi. Published: unknown. Original capture: research_notes. Underlying work: `alex-hormozi:x-identity-2026-10-05`.
+* [Tie AI spending to business returns](https://x.com/AlexHormozi/status/2105446365119525013). Author: Alex Hormozi. Published: 2026-09-30. Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-2105446365119525013`.
+* [Compare advertising cost with customer economics](https://x.com/AlexHormozi/status/1607455631908442113). Author: Alex Hormozi. Published: 2022-12-26. Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-1607455631908442113`.
+* [Improve an existing acquisition channel before expanding](https://x.com/AlexHormozi/status/1474058458806861832). Author: Alex Hormozi. Published: 2021-12-23. Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-1474058458806861832`.
+* [Align sales promises with delivery capacity](https://x.com/AlexHormozi/status/1606268429660471296). Author: Alex Hormozi. Published: 2022-12-23. Original capture: excerpt. Underlying work: `alex-hormozi:x-conversation-1606268429660471296`.
